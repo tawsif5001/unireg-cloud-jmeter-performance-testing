@@ -1,0 +1,1797 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1792169963542,1351,01a_GET_Home_Page,200,OK,Final Registration Students 1-1,text,true,,12335,167,1,1,https://uni-reg-cloud.vercel.app/,1339,0,628
+1792169964896,284, 01b_GET_Api_Info,200,OK,Final Registration Students 1-1,text,true,,603,175,1,1,https://uni-reg-cloud.vercel.app/api/info,284,0,0
+1792169963470,1635,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,12938,342,1,1,null,1623,76,628
+1792169966452,386,01a_GET_Home_Page,200,OK,Final Registration Students 1-2,text,true,,12335,167,2,2,https://uni-reg-cloud.vercel.app/,385,0,120
+1792169966839,258, 01b_GET_Api_Info,200,OK,Final Registration Students 1-2,text,true,,603,175,2,2,https://uni-reg-cloud.vercel.app/api/info,258,0,0
+1792169966450,644,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,12938,342,2,2,null,643,3,120
+1792169969446,358,01a_GET_Home_Page,200,OK,Final Registration Students 1-3,text,true,,12335,167,3,3,https://uni-reg-cloud.vercel.app/,354,0,99
+1792169969805,257, 01b_GET_Api_Info,200,OK,Final Registration Students 1-3,text,true,,603,175,3,3,https://uni-reg-cloud.vercel.app/api/info,257,0,0
+1792169969445,615,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,12938,342,3,3,null,611,16,99
+1792169972445,416,01a_GET_Home_Page,200,OK,Final Registration Students 1-4,text,true,,12335,167,4,4,https://uni-reg-cloud.vercel.app/,415,0,133
+1792169972862,258, 01b_GET_Api_Info,200,OK,Final Registration Students 1-4,text,true,,603,175,4,4,https://uni-reg-cloud.vercel.app/api/info,258,0,0
+1792169972444,674,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,12938,342,4,4,null,673,2,133
+1792169973105,296,02a_POST_Login,200,OK,Final Registration Students 1-1,text,true,,438,241,4,4,https://uni-reg-cloud.vercel.app/api/login,296,0,0
+1792169973439,287,02b_GET_Course_List,200,OK,Final Registration Students 1-1,text,true,,2436,230,4,4,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,287,0,0
+1792169965181,583,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,2874,471,4,4,null,583,7965,0
+1792169975444,382,01a_GET_Home_Page,200,OK,Final Registration Students 1-5,text,true,,12335,167,5,5,https://uni-reg-cloud.vercel.app/,380,0,120
+1792169975827,284, 01b_GET_Api_Info,200,OK,Final Registration Students 1-5,text,true,,603,175,5,5,https://uni-reg-cloud.vercel.app/api/info,284,0,0
+1792169975443,666,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,12938,342,5,5,null,664,3,120
+1792169976255,307,02a_POST_Login,200,OK,Final Registration Students 1-2,text,true,,439,241,5,5,https://uni-reg-cloud.vercel.app/api/login,307,0,0
+1792169976564,266,02b_GET_Course_List,200,OK,Final Registration Students 1-2,text,true,,2436,230,5,5,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,266,0,0
+1792169967097,573,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,2875,471,5,5,null,573,9162,0
+1792169978443,370,01a_GET_Home_Page,200,OK,Final Registration Students 1-6,text,true,,12335,167,6,6,https://uni-reg-cloud.vercel.app/,368,0,97
+1792169978814,260, 01b_GET_Api_Info,200,OK,Final Registration Students 1-6,text,true,,603,175,6,6,https://uni-reg-cloud.vercel.app/api/info,260,0,0
+1792169978441,630,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,12938,342,6,6,null,628,4,97
+1792169979057,293,02a_POST_Login,200,OK,Final Registration Students 1-4,text,true,,438,241,6,6,https://uni-reg-cloud.vercel.app/api/login,293,0,0
+1792169979351,272,02b_GET_Course_List,200,OK,Final Registration Students 1-4,text,true,,2436,230,6,6,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,271,0,0
+1792169973121,565,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,2874,471,6,6,null,564,5938,0
+1792169979616,292,02a_POST_Login,200,OK,Final Registration Students 1-3,text,true,,439,241,6,6,https://uni-reg-cloud.vercel.app/api/login,292,0,0
+1792169979910,292,02b_GET_Course_List,200,OK,Final Registration Students 1-3,text,true,,2436,230,6,6,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,291,0,0
+1792169970076,584,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,2875,471,6,6,null,583,9543,0
+1792169980416,273,03_GET_Course_Detail,200,OK,Final Registration Students 1-1,text,true,,508,230,6,6,https://uni-reg-cloud.vercel.app/api/courses/A-ENG101,272,0,0
+1792169973729,273,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,508,230,6,6,null,272,6687,0
+1792169981442,378,01a_GET_Home_Page,200,OK,Final Registration Students 1-7,text,true,,12335,167,7,7,https://uni-reg-cloud.vercel.app/,376,0,113
+1792169981821,256, 01b_GET_Api_Info,200,OK,Final Registration Students 1-7,text,true,,603,175,7,7,https://uni-reg-cloud.vercel.app/api/info,256,0,0
+1792169981440,634,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,12938,342,7,7,null,632,4,113
+1792169984202,296,02a_POST_Login,200,OK,Final Registration Students 1-6,text,true,,440,241,8,8,https://uni-reg-cloud.vercel.app/api/login,296,0,0
+1792169984498,269,02b_GET_Course_List,200,OK,Final Registration Students 1-6,text,true,,2436,230,8,8,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,269,0,0
+1792169979075,565,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,2876,471,8,8,null,565,5127,0
+1792169984441,388,01a_GET_Home_Page,200,OK,Final Registration Students 1-8,text,true,,12335,167,8,8,https://uni-reg-cloud.vercel.app/,385,0,107
+1792169984830,259, 01b_GET_Api_Info,200,OK,Final Registration Students 1-8,text,true,,603,175,8,8,https://uni-reg-cloud.vercel.app/api/info,259,0,0
+1792169984440,647,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,12938,342,8,8,null,644,2,107
+1792169984964,601,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,8,8,https://uni-reg-cloud.vercel.app/api/courses/A-CSE201,601,0,0
+1792169976832,601,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,365,230,8,8,null,601,8133,0
+1792169985021,608,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,8,8,https://uni-reg-cloud.vercel.app/api/courses/A-CSE201,608,0,0
+1792169979624,608,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-4,,false,,365,230,8,8,null,608,5396,0
+1792169985551,278,02a_POST_Login,200,OK,Final Registration Students 1-5,text,true,,440,241,8,8,https://uni-reg-cloud.vercel.app/api/login,278,0,0
+1792169985830,279,02b_GET_Course_List,200,OK,Final Registration Students 1-5,text,true,,2436,230,8,8,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,279,0,0
+1792169976112,557,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,2876,471,8,8,null,557,9440,0
+1792169987439,388,01a_GET_Home_Page,200,OK,Final Registration Students 1-9,text,true,,12335,167,9,9,https://uni-reg-cloud.vercel.app/,388,0,109
+1792169987828,273, 01b_GET_Api_Info,200,OK,Final Registration Students 1-9,text,true,,603,175,9,9,https://uni-reg-cloud.vercel.app/api/info,272,0,0
+1792169987438,661,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,12938,342,9,9,null,660,2,109
+1792169988114,305,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,9,9,https://uni-reg-cloud.vercel.app/api/courses/A-MAT101,305,0,0
+1792169980203,305,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,365,230,9,9,null,305,7911,0
+1792169989716,276,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,9,9,https://uni-reg-cloud.vercel.app/api/my-courses,276,0,0
+1792169980690,276,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-1,,false,,365,224,9,9,null,276,9028,0
+1792169990437,363,01a_GET_Home_Page,200,OK,Final Registration Students 1-10,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,363,0,115
+1792169990801,271, 01b_GET_Api_Info,200,OK,Final Registration Students 1-10,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,271,0,0
+1792169990437,634,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,12938,342,10,10,null,634,1,115
+1792169991133,279,02a_POST_Login,200,OK,Final Registration Students 1-7,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,279,0,0
+1792169991350,288,02a_POST_Login,200,OK,Final Registration Students 1-8,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,288,0,0
+1792169991413,298,02b_GET_Course_List,200,OK,Final Registration Students 1-7,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,298,0,0
+1792169982078,577,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,2875,471,10,10,null,577,9056,0
+1792169991639,282,02b_GET_Course_List,200,OK,Final Registration Students 1-8,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,282,0,0
+1792169985089,570,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,2876,471,10,10,null,570,6263,0
+1792169992604,274,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,274,0,0
+1792169985629,274,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-4,,false,,365,224,10,10,null,274,6975,0
+1792169993075,256,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,256,0,0
+1792169985567,256,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,365,224,10,10,null,256,7508,0
+1792169993986,284,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-ENG101,284,0,0
+1792169984768,284,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,365,230,10,10,null,284,9220,0
+1792169994087,270,03_GET_Course_Detail,200,OK,Final Registration Students 1-5,text,true,,508,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-ENG101,270,0,0
+1792169986110,270,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,508,230,10,10,null,270,7979,0
+1792169995779,271,05_POST_Logout,401,Unauthorized,Final Registration Students 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,270,0,0
+1792169989995,271,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-1,,false,,363,242,10,10,null,270,5785,0
+1792169996057,264,01a_GET_Home_Page,200,OK,Final Registration Students 1-1,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,263,0,0
+1792169996322,270, 01b_GET_Api_Info,200,OK,Final Registration Students 1-1,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,269,0,0
+1792169996056,534,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,12938,342,10,10,null,532,2,0
+1792169997710,283,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,283,0,0
+1792169988420,283,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,365,224,10,10,null,283,9292,0
+1792169997731,304,02a_POST_Login,200,OK,Final Registration Students 1-9,text,true,,441,241,10,10,https://uni-reg-cloud.vercel.app/api/login,304,0,0
+1792169998036,275,02b_GET_Course_List,200,OK,Final Registration Students 1-9,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,275,0,0
+1792169988101,579,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,2877,471,10,10,null,579,9633,0
+1792169998625,279,05_POST_Logout,401,Unauthorized,Final Registration Students 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,279,0,0
+1792169992879,279,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-4,,false,,363,242,10,10,null,279,5747,0
+1792169998905,271,01a_GET_Home_Page,200,OK,Final Registration Students 1-4,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,270,0,0
+1792169999177,256, 01b_GET_Api_Info,200,OK,Final Registration Students 1-4,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,256,0,0
+1792169998905,527,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,12938,342,10,10,null,526,2,0
+1792169999471,263,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-CSE305,263,0,0
+1792169991712,263,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-7,,false,,365,230,10,10,null,263,7761,0
+1792170000187,332,02a_POST_Login,200,OK,Final Registration Students 1-10,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,332,0,0
+1792170000523,289,02b_GET_Course_List,200,OK,Final Registration Students 1-10,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,289,0,0
+1792169991073,621,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,2875,471,10,10,null,621,9120,0
+1792170000537,301,03_GET_Course_Detail,200,OK,Final Registration Students 1-8,text,true,,500,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-PHY101,301,0,0
+1792169991922,301,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,500,230,10,10,null,301,8616,0
+1792170000631,280,04_GET_My_Courses,200,OK,Final Registration Students 1-5,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,280,0,0
+1792169994358,280,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,332,224,10,10,null,280,6274,0
+1792170000706,265,05_POST_Logout,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,265,0,0
+1792169993331,265,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,363,242,10,10,null,265,7377,0
+1792170000973,292,01a_GET_Home_Page,200,OK,Final Registration Students 1-2,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,291,0,0
+1792170001266,269, 01b_GET_Api_Info,200,OK,Final Registration Students 1-2,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,269,0,0
+1792170000972,561,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,12938,342,10,10,null,560,2,0
+1792170004064,307,02a_POST_Login,200,OK,Final Registration Students 1-1,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,307,0,0
+1792170004264,266,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,266,0,0
+1792169994271,266,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,365,224,10,10,null,266,9993,0
+1792170004372,285,02b_GET_Course_List,200,OK,Final Registration Students 1-1,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,285,0,0
+1792169996592,592,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,2874,471,10,10,null,592,7473,0
+1792170005528,298,02a_POST_Login,200,OK,Final Registration Students 1-4,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,298,0,0
+1792170005827,299,02b_GET_Course_List,200,OK,Final Registration Students 1-4,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,299,0,0
+1792169999434,597,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,2875,471,10,10,null,597,6095,0
+1792170006050,255,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-CSE101,255,0,0
+1792170000813,255,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-10,,false,,365,230,10,10,null,255,5237,0
+1792170007211,289,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-ENG101,288,0,0
+1792169998312,289,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-9,,false,,365,230,10,10,null,288,8899,0
+1792170007272,276,05_POST_Logout,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,276,0,0
+1792169997994,276,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,363,242,10,10,null,276,9277,0
+1792170007549,273,01a_GET_Home_Page,200,OK,Final Registration Students 1-3,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,272,0,0
+1792170007822,260, 01b_GET_Api_Info,200,OK,Final Registration Students 1-3,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,260,0,0
+1792170007549,533,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,12938,342,10,10,null,532,0,0
+1792170008051,269,04_GET_My_Courses,200,OK,Final Registration Students 1-7,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,269,0,0
+1792169999735,269,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,332,224,10,10,null,269,8315,0
+1792170009049,268,04_GET_My_Courses,200,OK,Final Registration Students 1-8,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,268,0,0
+1792170000838,268,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,332,224,10,10,null,268,8211,0
+1792170009743,277,05_POST_Logout,200,OK,Final Registration Students 1-5,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,277,0,0
+1792170000912,277,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,340,242,10,10,null,277,8830,0
+1792170010021,276,01a_GET_Home_Page,200,OK,Final Registration Students 1-5,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,272,0,0
+1792170010294,260,05_POST_Logout,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,260,0,0
+1792170004531,260,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,363,242,10,10,null,260,5763,0
+1792170010298,281, 01b_GET_Api_Info,200,OK,Final Registration Students 1-5,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,281,0,0
+1792170010020,557,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,12938,342,10,10,null,553,3,0
+1792170010555,251,01a_GET_Home_Page,200,OK,Final Registration Students 1-6,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,250,0,0
+1792170010726,275,03_GET_Course_Detail,200,OK,Final Registration Students 1-1,text,true,,503,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE305,275,0,0
+1792170004658,275,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,503,230,10,10,null,275,6069,0
+1792170010807,253, 01b_GET_Api_Info,200,OK,Final Registration Students 1-6,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,253,0,0
+1792170010554,504,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,12938,342,10,10,null,503,2,0
+1792170010977,313,02a_POST_Login,200,OK,Final Registration Students 1-2,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,313,0,0
+1792170011291,272,02b_GET_Course_List,200,OK,Final Registration Students 1-2,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,272,0,0
+1792170001535,585,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,2875,471,10,10,null,585,9443,0
+1792170011667,255,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,255,0,0
+1792170006306,255,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-10,,false,,365,224,10,10,null,255,5362,0
+1792170013663,278,03_GET_Course_Detail,200,OK,Final Registration Students 1-4,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-BBA210,278,0,0
+1792170006127,278,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,512,230,10,10,null,278,7537,0
+1792170014451,267,05_POST_Logout,200,OK,Final Registration Students 1-8,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,267,0,0
+1792170009318,267,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,340,242,10,10,null,267,5134,0
+1792170014720,305,01a_GET_Home_Page,200,OK,Final Registration Students 1-8,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,304,0,0
+1792170015026,265, 01b_GET_Api_Info,200,OK,Final Registration Students 1-8,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,264,0,0
+1792170014719,570,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,12938,342,10,10,null,568,2,0
+1792170015465,259,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,259,0,0
+1792170007501,259,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-9,,false,,365,224,10,10,null,259,7964,0
+1792170016725,286,02a_POST_Login,200,OK,Final Registration Students 1-6,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,286,0,0
+1792170016968,305,02a_POST_Login,200,OK,Final Registration Students 1-3,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,305,0,0
+1792170017012,279,02b_GET_Course_List,200,OK,Final Registration Students 1-6,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,279,0,0
+1792170011060,565,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,2876,471,10,10,null,565,5668,0
+1792170017274,290,02b_GET_Course_List,200,OK,Final Registration Students 1-3,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,290,0,0
+1792170008082,595,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,2874,471,10,10,null,595,8888,0
+1792170017352,257,05_POST_Logout,401,Unauthorized,Final Registration Students 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,257,0,0
+1792170008321,257,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-7,,false,,363,242,10,10,null,257,9032,0
+1792170017330,340,02a_POST_Login,200,OK,Final Registration Students 1-5,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,339,0,0
+1792170017611,263,01a_GET_Home_Page,200,OK,Final Registration Students 1-7,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,262,0,0
+1792170017671,296,02b_GET_Course_List,200,OK,Final Registration Students 1-5,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,296,0,0
+1792170010580,636,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,2876,471,10,10,null,635,6752,0
+1792170017875,274, 01b_GET_Api_Info,200,OK,Final Registration Students 1-7,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,274,0,0
+1792170017610,537,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,12938,342,10,10,null,536,2,0
+1792170018508,273,05_POST_Logout,401,Unauthorized,Final Registration Students 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,273,0,0
+1792170011923,273,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-10,,false,,363,242,10,10,null,273,6585,0
+1792170018782,257,01a_GET_Home_Page,200,OK,Final Registration Students 1-10,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,254,0,0
+1792170018722,317,03_GET_Course_Detail,200,OK,Final Registration Students 1-2,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-BBA210,317,0,0
+1792170011565,317,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-2,,true,,512,230,10,10,null,317,7158,0
+1792170019040,333, 01b_GET_Api_Info,200,OK,Final Registration Students 1-10,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,333,0,0
+1792170018781,590,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,12938,342,10,10,null,587,2,0
+1792170019514,268,04_GET_My_Courses,200,OK,Final Registration Students 1-1,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,268,0,0
+1792170011002,268,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,332,224,10,10,null,268,8513,0
+1792170020459,287,04_GET_My_Courses,200,OK,Final Registration Students 1-4,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,287,0,0
+1792170013942,287,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,332,224,10,10,null,287,6518,0
+1792170022332,270,03_GET_Course_Detail,200,OK,Final Registration Students 1-6,text,true,,508,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-ENG101,270,0,0
+1792170017293,270,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,508,230,10,10,null,270,5039,0
+1792170023549,310,02a_POST_Login,200,OK,Final Registration Students 1-7,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,310,0,0
+1792170023717,291,05_POST_Logout,401,Unauthorized,Final Registration Students 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,291,0,0
+1792170015724,291,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-9,,false,,363,242,10,10,null,291,7994,0
+1792170023862,295,02b_GET_Course_List,200,OK,Final Registration Students 1-7,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,295,0,0
+1792170018150,605,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,2876,471,10,10,null,605,5403,0
+1792170024010,271,01a_GET_Home_Page,200,OK,Final Registration Students 1-9,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,271,0,0
+1792170024282,280, 01b_GET_Api_Info,200,OK,Final Registration Students 1-9,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,280,0,0
+1792170024009,551,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,12938,342,10,10,null,551,3,0
+1792170024298,286,03_GET_Course_Detail,200,OK,Final Registration Students 1-5,text,true,,503,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE305,286,0,0
+1792170017968,286,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,503,230,10,10,null,286,6331,0
+1792170024504,301,02a_POST_Login,200,OK,Final Registration Students 1-8,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,301,0,0
+1792170024807,338,02b_GET_Course_List,200,OK,Final Registration Students 1-8,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,338,0,0
+1792170015291,639,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,2875,471,10,10,null,639,9217,0
+1792170025798,281,02a_POST_Login,200,OK,Final Registration Students 1-10,text,true,,441,241,10,10,https://uni-reg-cloud.vercel.app/api/login,281,0,0
+1792170025703,384,05_POST_Logout,401,Unauthorized,Final Registration Students 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,384,0,118
+1792170019783,384,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-1,,false,,363,242,10,10,null,384,5920,118
+1792170026088,256,01a_GET_Home_Page,200,OK,Final Registration Students 1-1,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,253,0,0
+1792170026072,273,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-BEN101,273,0,0
+1792170017565,273,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,365,230,10,10,null,273,8507,0
+1792170026080,287,02b_GET_Course_List,401,Unauthorized,Final Registration Students 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,287,0,0
+1792170019374,568,T02_Login,,"Number of samples in transaction : 2, number of failing samples : 1",Final Registration Students 1-10,,false,,806,471,10,10,null,568,6426,0
+1792170026345,355, 01b_GET_Api_Info,200,OK,Final Registration Students 1-1,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,355,0,0
+1792170026088,611,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,12938,342,10,10,null,608,2,0
+1792170027895,279,05_POST_Logout,401,Unauthorized,Final Registration Students 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,279,0,0
+1792170020747,279,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-4,,false,,363,242,10,10,null,279,7148,0
+1792170027948,389,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,389,0,100
+1792170019040,389,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,365,224,10,10,null,389,8909,100
+1792170028175,274,01a_GET_Home_Page,200,OK,Final Registration Students 1-4,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,273,0,0
+1792170028449,257, 01b_GET_Api_Info,200,OK,Final Registration Students 1-4,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,257,0,0
+1792170028174,531,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,12938,342,10,10,null,530,2,0
+1792170030000,320,02a_POST_Login,200,OK,Final Registration Students 1-9,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,320,0,0
+1792170030324,279,02b_GET_Course_List,200,OK,Final Registration Students 1-9,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,279,0,0
+1792170024563,599,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,2875,471,10,10,null,599,5442,0
+1792170030623,321,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,321,0,0
+1792170022602,321,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,365,224,10,10,null,321,8021,0
+1792170031813,359,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-ECO101,359,0,0
+1792170024159,359,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-7,,false,,365,230,10,10,null,359,7655,0
+1792170032351,279,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,279,0,0
+1792170024585,279,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,365,224,10,10,null,279,7767,0
+1792170033774,316,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-ART110,315,0,0
+1792170025147,316,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-8,,false,,365,230,10,10,null,315,8628,0
+1792170035750,275,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,238,10,10,https://uni-reg-cloud.vercel.app/api/courses/COURSE_NOT_FOUND,275,0,0
+1792170026368,275,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-10,,false,,365,238,10,10,null,275,9384,0
+1792170036009,396,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,396,0,144
+1792170026345,396,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,365,224,10,10,null,396,9666,144
+1792170036227,299,02a_POST_Login,200,OK,Final Registration Students 1-1,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,299,0,0
+1792170036527,283,02b_GET_Course_List,200,OK,Final Registration Students 1-1,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,283,0,0
+1792170026701,582,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,2874,471,10,10,null,582,9530,0
+1792170037270,279,03_GET_Course_Detail,200,OK,Final Registration Students 1-9,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-BBA210,279,0,0
+1792170030605,279,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,512,230,10,10,null,279,6667,0
+1792170037366,293,05_POST_Logout,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,293,0,0
+1792170030944,293,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,363,242,10,10,null,293,6424,0
+1792170037660,287,01a_GET_Home_Page,200,OK,Final Registration Students 1-6,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,286,0,0
+1792170037947,306, 01b_GET_Api_Info,200,OK,Final Registration Students 1-6,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,306,0,0
+1792170037660,593,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,12938,342,10,10,null,592,0,0
+1792170037893,389,05_POST_Logout,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,389,0,112
+1792170032632,389,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,363,242,10,10,null,389,5263,112
+1792170038155,265,05_POST_Logout,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,264,0,0
+1792170028338,265,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,363,242,10,10,null,264,9818,0
+1792170038283,285,01a_GET_Home_Page,200,OK,Final Registration Students 1-5,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,285,0,0
+1792170038421,260,01a_GET_Home_Page,200,OK,Final Registration Students 1-2,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,258,0,0
+1792170038569,303, 01b_GET_Api_Info,200,OK,Final Registration Students 1-5,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,303,0,0
+1792170038283,588,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,12938,342,10,10,null,588,2,0
+1792170038682,299, 01b_GET_Api_Info,200,OK,Final Registration Students 1-2,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,299,0,0
+1792170038421,559,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,12938,342,10,10,null,557,2,0
+1792170038448,533,02a_POST_Login,200,OK,Final Registration Students 1-4,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,533,0,218
+1792170038983,297,02b_GET_Course_List,200,OK,Final Registration Students 1-4,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,297,0,0
+1792170028707,830,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,2875,471,10,10,null,830,9746,218
+1792170040987,259,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,259,0,0
+1792170032173,259,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-7,,false,,365,224,10,10,null,259,8816,0
+1792170041086,262,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,262,0,0
+1792170034090,262,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-8,,false,,365,224,10,10,null,262,6996,0
+1792170042460,287,03_GET_Course_Detail,200,OK,Final Registration Students 1-1,text,true,,506,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-ECO101,287,0,0
+1792170036812,287,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,506,230,10,10,null,287,5649,0
+1792170042914,263,05_POST_Logout,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,262,0,0
+1792170036406,263,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,363,242,10,10,null,262,6508,0
+1792170043178,282,01a_GET_Home_Page,200,OK,Final Registration Students 1-3,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,281,0,0
+1792170043434,284,04_GET_My_Courses,200,OK,Final Registration Students 1-9,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,284,0,0
+1792170037550,284,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,332,224,10,10,null,284,5884,0
+1792170043460,264, 01b_GET_Api_Info,200,OK,Final Registration Students 1-3,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,264,0,0
+1792170043178,546,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,12938,342,10,10,null,545,1,0
+1792170044380,346,03_GET_Course_Detail,200,OK,Final Registration Students 1-4,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE101,346,0,0
+1792170039282,346,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,512,230,10,10,null,346,5099,0
+1792170044698,275,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,274,0,0
+1792170036026,275,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-10,,false,,365,224,10,10,null,274,8672,0
+1792170046295,389,05_POST_Logout,401,Unauthorized,Final Registration Students 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,388,0,115
+1792170041247,389,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-7,,false,,363,242,10,10,null,388,5048,115
+1792170046467,427,02a_POST_Login,200,OK,Final Registration Students 1-6,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,427,0,111
+1792170046685,290,01a_GET_Home_Page,200,OK,Final Registration Students 1-7,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,283,0,0
+1792170046895,291,02b_GET_Course_List,200,OK,Final Registration Students 1-6,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,291,0,0
+1792170038253,718,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,2875,471,10,10,null,718,8216,111
+1792170046975,261, 01b_GET_Api_Info,200,OK,Final Registration Students 1-7,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,261,0,0
+1792170046684,551,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,12938,342,10,10,null,544,2,0
+1792170048218,373,02a_POST_Login,200,OK,Final Registration Students 1-2,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,373,0,0
+1792170048295,305,02a_POST_Login,200,OK,Final Registration Students 1-5,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,305,0,0
+1792170048592,254,02b_GET_Course_List,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,254,0,0
+1792170038982,627,T02_Login,,"Number of samples in transaction : 2, number of failing samples : 1",Final Registration Students 1-2,,false,,805,471,10,10,null,627,9238,0
+1792170048602,302,02b_GET_Course_List,200,OK,Final Registration Students 1-5,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,302,0,0
+1792170038873,607,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,2874,471,10,10,null,607,9425,0
+1792170048758,417,05_POST_Logout,200,OK,Final Registration Students 1-8,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,417,0,148
+1792170041348,417,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,340,242,10,10,null,417,7411,148
+1792170049176,273,01a_GET_Home_Page,200,OK,Final Registration Students 1-8,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,272,0,0
+1792170049450,279, 01b_GET_Api_Info,200,OK,Final Registration Students 1-8,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,279,0,0
+1792170049176,552,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,12938,342,10,10,null,551,2,0
+1792170049710,264,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,264,0,0
+1792170042748,264,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-1,,false,,365,224,10,10,null,264,6963,0
+1792170050335,294,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,294,0,0
+1792170044727,294,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-4,,false,,365,224,10,10,null,294,5609,0
+1792170051058,365,05_POST_Logout,401,Unauthorized,Final Registration Students 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,365,0,102
+1792170043718,365,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-9,,false,,363,242,10,10,null,365,7340,102
+1792170051424,264,01a_GET_Home_Page,200,OK,Final Registration Students 1-9,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,261,0,0
+1792170051688,269, 01b_GET_Api_Info,200,OK,Final Registration Students 1-9,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,269,0,0
+1792170051423,534,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,12938,342,10,10,null,530,1,0
+1792170053063,301,02a_POST_Login,200,OK,Final Registration Students 1-3,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,301,0,0
+1792170053063,305,02a_POST_Login,200,OK,Final Registration Students 1-7,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,305,0,0
+1792170053365,266,02b_GET_Course_List,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,266,0,0
+1792170043725,567,T02_Login,,"Number of samples in transaction : 2, number of failing samples : 1",Final Registration Students 1-3,,false,,805,471,10,10,null,567,9340,0
+1792170053369,278,02b_GET_Course_List,401,Unauthorized,Final Registration Students 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,278,0,0
+1792170047237,583,T02_Login,,"Number of samples in transaction : 2, number of failing samples : 1",Final Registration Students 1-7,,false,,804,471,10,10,null,583,5828,0
+1792170054344,255,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-MAT101,255,0,0
+1792170047187,255,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,365,230,10,10,null,255,7158,0
+1792170054780,405,05_POST_Logout,200,OK,Final Registration Students 1-10,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,405,0,100
+1792170044973,405,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,340,242,10,10,null,405,9808,100
+1792170055187,240,01a_GET_Home_Page,200,OK,Final Registration Students 1-10,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,240,0,0
+1792170055146,303,02a_POST_Login,200,OK,Final Registration Students 1-8,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,303,0,0
+1792170055428,290, 01b_GET_Api_Info,200,OK,Final Registration Students 1-10,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,290,0,0
+1792170055186,530,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,12938,342,10,10,null,530,2,0
+1792170055450,273,02b_GET_Course_List,401,Unauthorized,Final Registration Students 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,273,0,0
+1792170049730,576,T02_Login,,"Number of samples in transaction : 2, number of failing samples : 1",Final Registration Students 1-8,,false,,805,471,10,10,null,576,5417,0
+1792170056142,256,05_POST_Logout,200,OK,Final Registration Students 1-1,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,256,0,0
+1792170049975,256,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,340,242,10,10,null,256,6167,0
+1792170056400,271,01a_GET_Home_Page,200,OK,Final Registration Students 1-1,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,270,0,0
+1792170056438,266,03_GET_Course_Detail,404,Not Found,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",359,238,10,10,https://uni-reg-cloud.vercel.app/api/courses/COURSE_NOT_FOUND,266,0,0
+1792170048848,266,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,359,238,10,10,null,266,7591,0
+1792170056672,299, 01b_GET_Api_Info,200,OK,Final Registration Students 1-1,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,299,0,0
+1792170056399,570,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,12938,342,10,10,null,569,2,0
+1792170057545,277,02a_POST_Login,200,OK,Final Registration Students 1-9,text,true,,441,241,10,10,https://uni-reg-cloud.vercel.app/api/login,277,0,0
+1792170057637,259,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-BBA210,259,0,0
+1792170048905,259,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,365,230,10,10,null,259,8733,0
+1792170057823,283,02b_GET_Course_List,200,OK,Final Registration Students 1-9,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,283,0,0
+1792170051958,560,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,2877,471,10,10,null,560,5588,0
+1792170058908,299,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,238,10,10,https://uni-reg-cloud.vercel.app/api/courses/COURSE_NOT_FOUND,299,0,0
+1792170053632,299,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,365,238,10,10,null,299,5275,0
+1792170059681,297,04_GET_My_Courses,200,OK,Final Registration Students 1-6,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,297,0,0
+1792170054600,297,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,332,224,10,10,null,297,5080,0
+1792170060495,269,05_POST_Logout,200,OK,Final Registration Students 1-4,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,269,0,0
+1792170050630,269,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,340,242,10,10,null,269,9867,0
+1792170060767,272,01a_GET_Home_Page,200,OK,Final Registration Students 1-4,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,271,0,0
+1792170061040,265, 01b_GET_Api_Info,200,OK,Final Registration Students 1-4,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,265,0,0
+1792170060767,537,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,12938,342,10,10,null,536,2,0
+1792170061724,325,02a_POST_Login,200,OK,Final Registration Students 1-10,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,325,0,0
+1792170062050,301,02b_GET_Course_List,200,OK,Final Registration Students 1-10,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,301,0,0
+1792170055718,626,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,2875,471,10,10,null,626,6006,0
+1792170063312,287,03_GET_Course_Detail,404,Not Found,Final Registration Students 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",359,238,10,10,https://uni-reg-cloud.vercel.app/api/courses/COURSE_NOT_FOUND,287,0,0
+1792170053648,287,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-7,,false,,359,238,10,10,null,287,9663,0
+1792170064190,312,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,312,0,0
+1792170056705,312,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,365,224,10,10,null,312,7486,0
+1792170064105,411,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,238,10,10,https://uni-reg-cloud.vercel.app/api/courses/COURSE_NOT_FOUND,411,0,0
+1792170064188,328,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,328,0,0
+1792170055724,411,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-8,,false,,365,238,10,10,null,411,8382,0
+1792170057897,328,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,365,224,10,10,null,328,6292,0
+1792170065060,312,03_GET_Course_Detail,200,OK,Final Registration Students 1-9,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-MAT101,312,0,0
+1792170058106,312,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,502,230,10,10,null,312,6955,0
+1792170066107,284,02a_POST_Login,200,OK,Final Registration Students 1-1,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,284,0,0
+1792170066392,290,02b_GET_Course_List,200,OK,Final Registration Students 1-1,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,289,0,0
+1792170056971,574,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,2874,471,10,10,null,573,9138,0
+1792170067532,274,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,274,0,0
+1792170059207,274,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,365,224,10,10,null,274,8327,0
+1792170068510,273,02a_POST_Login,200,OK,Final Registration Students 1-4,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,273,0,0
+1792170068785,284,02b_GET_Course_List,200,OK,Final Registration Students 1-4,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,284,0,0
+1792170061306,557,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,2875,471,10,10,null,557,7208,0
+1792170069886,282,03_GET_Course_Detail,200,OK,Final Registration Students 1-10,text,true,,500,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-PHY101,282,0,0
+1792170062352,282,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,500,230,10,10,null,282,7535,0
+1792170069914,307,05_POST_Logout,200,OK,Final Registration Students 1-6,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,306,0,0
+1792170059978,307,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,340,242,10,10,null,306,9937,0
+1792170070222,259,01a_GET_Home_Page,200,OK,Final Registration Students 1-6,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,259,0,0
+1792170070482,273, 01b_GET_Api_Info,200,OK,Final Registration Students 1-6,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,273,0,0
+1792170070222,532,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,12938,342,10,10,null,532,1,0
+1792170070558,255,05_POST_Logout,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,255,0,0
+1792170064517,255,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,363,242,10,10,null,255,6042,0
+1792170070679,288,04_GET_My_Courses,200,OK,Final Registration Students 1-7,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,288,0,0
+1792170063599,288,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,332,224,10,10,null,288,7081,0
+1792170070814,276,01a_GET_Home_Page,200,OK,Final Registration Students 1-5,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,276,0,0
+1792170071091,265, 01b_GET_Api_Info,200,OK,Final Registration Students 1-5,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,265,0,0
+1792170070814,541,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,12938,342,10,10,null,541,2,0
+1792170071259,270,04_GET_My_Courses,200,OK,Final Registration Students 1-9,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,270,0,0
+1792170065373,270,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,332,224,10,10,null,270,5886,0
+1792170071484,259,05_POST_Logout,200,OK,Final Registration Students 1-2,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,259,0,0
+1792170064503,259,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-2,,true,,340,242,10,10,null,259,6981,0
+1792170071744,262,01a_GET_Home_Page,200,OK,Final Registration Students 1-2,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,261,0,0
+1792170072007,265, 01b_GET_Api_Info,200,OK,Final Registration Students 1-2,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,265,0,0
+1792170071744,527,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,12938,342,10,10,null,526,1,0
+1792170074289,291,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,291,0,0
+1792170064517,291,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-8,,false,,365,224,10,10,null,291,9771,0
+1792170074368,262,03_GET_Course_Detail,200,OK,Final Registration Students 1-1,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-MAT101,262,0,0
+1792170066683,262,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,502,230,10,10,null,262,7684,0
+1792170075611,280,03_GET_Course_Detail,200,OK,Final Registration Students 1-4,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-BEN101,280,0,0
+1792170069070,280,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,512,230,10,10,null,280,6541,0
+1792170076306,269,05_POST_Logout,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,269,0,0
+1792170067807,269,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,363,242,10,10,null,269,8498,0
+1792170076576,275,01a_GET_Home_Page,200,OK,Final Registration Students 1-3,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,274,0,0
+1792170076851,281, 01b_GET_Api_Info,200,OK,Final Registration Students 1-3,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,280,0,0
+1792170076576,556,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,12938,342,10,10,null,554,0,0
+1792170077298,290,02a_POST_Login,200,OK,Final Registration Students 1-6,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,290,0,0
+1792170077590,278,02b_GET_Course_List,200,OK,Final Registration Students 1-6,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,277,0,0
+1792170070756,568,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,2875,471,10,10,null,567,6543,0
+1792170077621,264,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,264,0,0
+1792170070168,264,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-10,,false,,365,224,10,10,null,264,7453,0
+1792170077573,337,02a_POST_Login,200,OK,Final Registration Students 1-5,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,336,0,0
+1792170077911,318,02b_GET_Course_List,200,OK,Final Registration Students 1-5,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,318,0,0
+1792170071357,655,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,2874,471,10,10,null,654,6217,0
+1792170078187,331,05_POST_Logout,200,OK,Final Registration Students 1-7,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,331,0,0
+1792170070968,331,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,340,242,10,10,null,331,7218,0
+1792170078518,297,01a_GET_Home_Page,200,OK,Final Registration Students 1-7,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,297,0,0
+1792170078815,271, 01b_GET_Api_Info,200,OK,Final Registration Students 1-7,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,271,0,0
+1792170078518,568,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,12938,342,10,10,null,568,1,0
+1792170078854,268,05_POST_Logout,200,OK,Final Registration Students 1-9,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,268,0,0
+1792170071529,268,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,340,242,10,10,null,268,7325,0
+1792170079123,257,01a_GET_Home_Page,200,OK,Final Registration Students 1-9,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,256,0,0
+1792170079380,259, 01b_GET_Api_Info,200,OK,Final Registration Students 1-9,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,259,0,0
+1792170079122,516,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,12938,342,10,10,null,515,2,0
+1792170081601,272,04_GET_My_Courses,200,OK,Final Registration Students 1-1,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,272,0,0
+1792170074630,272,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,332,224,10,10,null,272,6972,0
+1792170081598,288,02a_POST_Login,200,OK,Final Registration Students 1-2,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,288,0,0
+1792170081888,289,02b_GET_Course_List,200,OK,Final Registration Students 1-2,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,289,0,0
+1792170072272,577,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,2876,471,10,10,null,577,9329,0
+1792170083586,274,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-ECO101,274,0,0
+1792170077868,274,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,365,230,10,10,null,274,5718,0
+1792170083657,277,05_POST_Logout,200,OK,Final Registration Students 1-8,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,277,0,0
+1792170074580,277,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,340,242,10,10,null,277,9078,0
+1792170083935,261,01a_GET_Home_Page,200,OK,Final Registration Students 1-8,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,260,0,0
+1792170084196,263, 01b_GET_Api_Info,200,OK,Final Registration Students 1-8,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,263,0,0
+1792170083935,524,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,12938,342,10,10,null,523,1,0
+1792170084663,270,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,270,0,0
+1792170075892,270,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-4,,false,,365,224,10,10,null,270,8771,0
+1792170084970,299,05_POST_Logout,401,Unauthorized,Final Registration Students 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,299,0,0
+1792170077886,299,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-10,,false,,363,242,10,10,null,299,7084,0
+1792170085270,260,01a_GET_Home_Page,200,OK,Final Registration Students 1-10,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,259,0,0
+1792170085530,257, 01b_GET_Api_Info,200,OK,Final Registration Students 1-10,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,257,0,0
+1792170085270,517,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,12938,342,10,10,null,516,0,0
+1792170085544,300,02a_POST_Login,200,OK,Final Registration Students 1-7,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,300,0,0
+1792170085846,287,02b_GET_Course_List,200,OK,Final Registration Students 1-7,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,287,0,0
+1792170079087,587,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,2875,471,10,10,null,587,6459,0
+1792170086247,367,02a_POST_Login,200,OK,Final Registration Students 1-3,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,367,0,0
+1792170086616,286,02b_GET_Course_List,200,OK,Final Registration Students 1-3,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,286,0,0
+1792170077132,653,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,2876,471,10,10,null,653,9118,0
+1792170087449,271,03_GET_Course_Detail,200,OK,Final Registration Students 1-5,text,true,,515,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-BBA101,271,0,0
+1792170078230,271,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,515,230,10,10,null,271,9220,0
+1792170087529,282,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE101,282,0,0
+1792170082178,282,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,365,230,10,10,null,282,5351,0
+1792170089344,296,02a_POST_Login,200,OK,Final Registration Students 1-9,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,296,0,0
+1792170089641,296,02b_GET_Course_List,200,OK,Final Registration Students 1-9,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,296,0,0
+1792170079640,592,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,2876,471,10,10,null,592,9705,0
+1792170089985,537,05_POST_Logout,200,OK,Final Registration Students 1-1,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,537,0,136
+1792170081873,537,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,340,242,10,10,null,537,8113,136
+1792170090441,275,02a_POST_Login,200,OK,Final Registration Students 1-8,text,true,,441,241,10,10,https://uni-reg-cloud.vercel.app/api/login,275,0,0
+1792170090525,291,01a_GET_Home_Page,200,OK,Final Registration Students 1-1,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,284,0,0
+1792170090717,301,02b_GET_Course_List,200,OK,Final Registration Students 1-8,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,300,0,0
+1792170084460,576,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,2877,471,10,10,null,575,5983,0
+1792170090817,282, 01b_GET_Api_Info,200,OK,Final Registration Students 1-1,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,282,0,0
+1792170090525,573,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,12938,342,10,10,null,566,1,0
+1792170092134,282,05_POST_Logout,401,Unauthorized,Final Registration Students 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,282,0,0
+1792170092142,274,04_GET_My_Courses,200,OK,Final Registration Students 1-6,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,274,0,0
+1792170084933,282,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-4,,false,,363,242,10,10,null,282,7201,0
+1792170083860,274,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,332,224,10,10,null,274,8282,0
+1792170092416,288,01a_GET_Home_Page,200,OK,Final Registration Students 1-4,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,287,0,0
+1792170092635,296,02a_POST_Login,200,OK,Final Registration Students 1-10,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,296,0,0
+1792170092704,269, 01b_GET_Api_Info,200,OK,Final Registration Students 1-4,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,269,0,0
+1792170092416,557,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,12938,342,10,10,null,556,0,0
+1792170092932,296,02b_GET_Course_List,200,OK,Final Registration Students 1-10,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,296,0,0
+1792170085787,592,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,2875,471,10,10,null,592,6850,0
+1792170093139,290,03_GET_Course_Detail,200,OK,Final Registration Students 1-7,text,true,,500,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-PHY101,290,0,0
+1792170086134,290,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,500,230,10,10,null,290,7005,0
+1792170093372,398,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,398,0,126
+1792170087812,398,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,365,224,10,10,null,398,5560,126
+1792170094197,285,03_GET_Course_Detail,200,OK,Final Registration Students 1-3,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-MAT101,285,0,0
+1792170086903,285,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,502,230,10,10,null,285,7294,0
+1792170097051,275,04_GET_My_Courses,200,OK,Final Registration Students 1-5,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,275,0,0
+1792170087721,275,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,332,224,10,10,null,275,9330,0
+1792170097839,286,03_GET_Course_Detail,200,OK,Final Registration Students 1-8,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-BBA210,286,0,0
+1792170091019,286,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,512,230,10,10,null,286,6821,0
+1792170098463,330,02a_POST_Login,200,OK,Final Registration Students 1-1,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,330,0,0
+1792170098794,272,02b_GET_Course_List,200,OK,Final Registration Students 1-1,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,272,0,0
+1792170091099,602,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,2874,471,10,10,null,602,7367,0
+1792170099597,287,03_GET_Course_Detail,200,OK,Final Registration Students 1-9,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-CSE201,287,0,0
+1792170089938,287,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,502,230,10,10,null,287,9661,0
+1792170100338,273,04_GET_My_Courses,200,OK,Final Registration Students 1-7,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,273,0,0
+1792170093429,273,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,332,224,10,10,null,273,6910,0
+1792170100450,437,02a_POST_Login,200,OK,Final Registration Students 1-4,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,437,0,142
+1792170100888,311,02b_GET_Course_List,200,OK,Final Registration Students 1-4,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,310,0,0
+1792170092973,748,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,2875,471,10,10,null,747,7479,142
+1792170101174,290,05_POST_Logout,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,290,0,0
+1792170093771,290,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,363,242,10,10,null,290,7405,0
+1792170101263,292,03_GET_Course_Detail,200,OK,Final Registration Students 1-10,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-CSE101,292,0,0
+1792170093229,292,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,512,230,10,10,null,292,8036,0
+1792170101466,260,01a_GET_Home_Page,200,OK,Final Registration Students 1-2,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,260,0,0
+1792170101727,272, 01b_GET_Api_Info,200,OK,Final Registration Students 1-2,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,272,0,0
+1792170101465,532,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,12938,342,10,10,null,532,3,0
+1792170102092,266,05_POST_Logout,200,OK,Final Registration Students 1-6,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,265,0,0
+1792170092416,266,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,340,242,10,10,null,265,9677,0
+1792170102360,275,01a_GET_Home_Page,200,OK,Final Registration Students 1-6,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,275,0,0
+1792170102636,293, 01b_GET_Api_Info,200,OK,Final Registration Students 1-6,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,293,0,0
+1792170102359,568,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,12938,342,10,10,null,568,2,0
+1792170103950,362,04_GET_My_Courses,200,OK,Final Registration Students 1-3,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,362,0,100
+1792170094482,362,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,332,224,10,10,null,362,9468,100
+1792170104433,307,03_GET_Course_Detail,200,OK,Final Registration Students 1-1,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-ART110,307,0,0
+1792170099067,307,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,502,230,10,10,null,307,5365,0
+1792170105065,369,05_POST_Logout,200,OK,Final Registration Students 1-5,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,369,0,106
+1792170097326,369,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,340,242,10,10,null,369,7739,106
+1792170105435,270,01a_GET_Home_Page,200,OK,Final Registration Students 1-5,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,270,0,0
+1792170105705,280, 01b_GET_Api_Info,200,OK,Final Registration Students 1-5,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,280,0,0
+1792170105435,550,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,12938,342,10,10,null,550,0,0
+1792170105718,280,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,280,0,0
+1792170098126,280,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-8,,false,,365,224,10,10,null,280,7593,0
+1792170106557,280,03_GET_Course_Detail,200,OK,Final Registration Students 1-4,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE201,280,0,0
+1792170101199,280,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,502,230,10,10,null,280,5357,0
+1792170107814,504,05_POST_Logout,200,OK,Final Registration Students 1-7,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,504,0,104
+1792170100611,504,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,340,242,10,10,null,504,7202,104
+1792170108319,276,01a_GET_Home_Page,200,OK,Final Registration Students 1-7,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,276,0,0
+1792170108595,279, 01b_GET_Api_Info,200,OK,Final Registration Students 1-7,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,279,0,0
+1792170108319,555,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,12938,342,10,10,null,555,1,0
+1792170109435,274,05_POST_Logout,200,OK,Final Registration Students 1-3,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,274,0,0
+1792170104312,274,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,340,242,10,10,null,274,5124,0
+1792170109372,401,02a_POST_Login,200,OK,Final Registration Students 1-6,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,401,0,106
+1792170109710,269,01a_GET_Home_Page,200,OK,Final Registration Students 1-3,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,268,0,0
+1792170109732,269,04_GET_My_Courses,200,OK,Final Registration Students 1-9,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,269,0,0
+1792170099885,269,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,332,224,10,10,null,269,9847,0
+1792170109774,278,02b_GET_Course_List,200,OK,Final Registration Students 1-6,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,278,0,0
+1792170102929,679,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,2874,471,10,10,null,679,6445,106
+1792170109979,258, 01b_GET_Api_Info,200,OK,Final Registration Students 1-3,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,258,0,0
+1792170109710,527,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,12938,342,10,10,null,526,0,0
+1792170110496,314,02a_POST_Login,200,OK,Final Registration Students 1-2,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,314,0,0
+1792170110811,317,02b_GET_Course_List,200,OK,Final Registration Students 1-2,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,317,0,0
+1792170102000,631,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,2875,471,10,10,null,631,8498,0
+1792170111403,297,04_GET_My_Courses,200,OK,Final Registration Students 1-10,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,297,0,0
+1792170101556,297,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,332,224,10,10,null,297,9847,0
+1792170112690,292,04_GET_My_Courses,200,OK,Final Registration Students 1-4,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,292,0,0
+1792170106837,292,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,332,224,10,10,null,292,5855,0
+1792170112979,289,02a_POST_Login,200,OK,Final Registration Students 1-5,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,289,0,0
+1792170113270,295,02b_GET_Course_List,200,OK,Final Registration Students 1-5,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,295,0,0
+1792170105985,584,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,2876,471,10,10,null,584,6998,0
+1792170113550,373,05_POST_Logout,200,OK,Final Registration Students 1-8,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,373,0,103
+1792170105999,373,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,340,242,10,10,null,373,7551,103
+1792170113924,313,01a_GET_Home_Page,200,OK,Final Registration Students 1-8,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,312,0,0
+1792170113916,338,04_GET_My_Courses,200,OK,Final Registration Students 1-1,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,338,0,0
+1792170104740,338,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,332,224,10,10,null,338,9177,0
+1792170114237,264, 01b_GET_Api_Info,200,OK,Final Registration Students 1-8,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,264,0,0
+1792170113923,577,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,12938,342,10,10,null,576,1,0
+1792170114890,300,02a_POST_Login,200,OK,Final Registration Students 1-7,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,300,0,0
+1792170115191,305,02b_GET_Course_List,200,OK,Final Registration Students 1-7,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,305,0,0
+1792170108874,605,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,2876,471,10,10,null,605,6017,0
+1792170116202,397,02a_POST_Login,200,OK,Final Registration Students 1-3,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,397,0,0
+1792170116601,287,02b_GET_Course_List,200,OK,Final Registration Students 1-3,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,287,0,0
+1792170110237,684,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,2875,471,10,10,null,684,5967,0
+1792170117878,300,03_GET_Course_Detail,200,OK,Final Registration Students 1-6,text,true,,515,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-BBA101,300,0,0
+1792170110053,300,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,515,230,10,10,null,300,7824,0
+1792170118212,378,05_POST_Logout,200,OK,Final Registration Students 1-9,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,378,0,107
+1792170110001,378,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,340,242,10,10,null,378,8210,107
+1792170118589,266,01a_GET_Home_Page,200,OK,Final Registration Students 1-9,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,265,0,0
+1792170118855,269, 01b_GET_Api_Info,200,OK,Final Registration Students 1-9,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,269,0,0
+1792170118589,535,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,12938,342,10,10,null,534,0,0
+1792170119368,277,03_GET_Course_Detail,200,OK,Final Registration Students 1-5,text,true,,500,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-STA201,277,0,0
+1792170113567,277,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,500,230,10,10,null,277,5802,0
+1792170120126,291,05_POST_Logout,200,OK,Final Registration Students 1-4,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,291,0,0
+1792170112983,291,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,340,242,10,10,null,291,7146,0
+1792170120421,270,01a_GET_Home_Page,200,OK,Final Registration Students 1-4,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,270,0,0
+1792170120691,267, 01b_GET_Api_Info,200,OK,Final Registration Students 1-4,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,267,0,0
+1792170120421,537,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,12938,342,10,10,null,537,0,0
+1792170121017,280,03_GET_Course_Detail,200,OK,Final Registration Students 1-2,text,true,,500,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-STA201,280,0,0
+1792170111129,280,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-2,,true,,500,230,10,10,null,280,9889,0
+1792170121368,374,05_POST_Logout,200,OK,Final Registration Students 1-10,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,374,0,108
+1792170111700,374,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,340,242,10,10,null,374,9668,108
+1792170121743,288,01a_GET_Home_Page,200,OK,Final Registration Students 1-10,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,287,0,0
+1792170122031,262, 01b_GET_Api_Info,200,OK,Final Registration Students 1-10,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,262,0,0
+1792170121743,550,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,12938,342,10,10,null,549,1,0
+1792170123049,284,03_GET_Course_Detail,200,OK,Final Registration Students 1-7,text,true,,508,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-ENG101,283,0,0
+1792170115497,284,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,508,230,10,10,null,283,7553,0
+1792170123417,273,05_POST_Logout,200,OK,Final Registration Students 1-1,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,273,0,0
+1792170114255,273,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,340,242,10,10,null,273,9164,0
+1792170123691,281,01a_GET_Home_Page,200,OK,Final Registration Students 1-1,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,278,0,0
+1792170123973,277, 01b_GET_Api_Info,200,OK,Final Registration Students 1-1,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,277,0,0
+1792170123691,558,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,12938,342,10,10,null,555,1,0
+1792170124104,322,02a_POST_Login,200,OK,Final Registration Students 1-8,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,322,0,0
+1792170124427,304,02b_GET_Course_List,200,OK,Final Registration Students 1-8,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,304,0,0
+1792170114501,626,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,2876,471,10,10,null,626,9605,0
+1792170124887,275,03_GET_Course_Detail,200,OK,Final Registration Students 1-3,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-ART110,275,0,0
+1792170116889,275,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,502,230,10,10,null,275,7999,0
+1792170125052,298,02a_POST_Login,200,OK,Final Registration Students 1-9,text,true,,441,241,10,10,https://uni-reg-cloud.vercel.app/api/login,298,0,0
+1792170125351,276,02b_GET_Course_List,200,OK,Final Registration Students 1-9,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,276,0,0
+1792170119124,574,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,2877,471,10,10,null,574,5930,0
+1792170126477,276,02a_POST_Login,200,OK,Final Registration Students 1-4,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,276,0,0
+1792170126755,297,02b_GET_Course_List,200,OK,Final Registration Students 1-4,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,297,0,0
+1792170120958,573,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,2875,471,10,10,null,573,5522,0
+1792170127039,282,04_GET_My_Courses,200,OK,Final Registration Students 1-6,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,282,0,0
+1792170118178,282,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,332,224,10,10,null,282,8862,0
+1792170127183,267,04_GET_My_Courses,200,OK,Final Registration Students 1-5,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,266,0,0
+1792170119645,267,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,332,224,10,10,null,266,7538,0
+1792170127843,283,02a_POST_Login,200,OK,Final Registration Students 1-10,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,283,0,0
+1792170128127,284,02b_GET_Course_List,200,OK,Final Registration Students 1-10,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,284,0,0
+1792170122294,567,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,2874,471,10,10,null,567,5551,0
+1792170128301,327,04_GET_My_Courses,200,OK,Final Registration Students 1-2,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,327,0,0
+1792170121298,327,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-2,,true,,332,224,10,10,null,327,7003,0
+1792170130056,276,04_GET_My_Courses,200,OK,Final Registration Students 1-7,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,276,0,0
+1792170123333,276,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,332,224,10,10,null,276,6723,0
+1792170130978,366,02a_POST_Login,200,OK,Final Registration Students 1-1,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,366,0,0
+1792170131345,295,02b_GET_Course_List,200,OK,Final Registration Students 1-1,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,295,0,0
+1792170124251,661,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,2875,471,10,10,null,661,6729,0
+1792170131366,276,03_GET_Course_Detail,200,OK,Final Registration Students 1-9,text,true,,503,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-CSE305,276,0,0
+1792170125629,276,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,503,230,10,10,null,276,5738,0
+1792170131419,277,03_GET_Course_Detail,200,OK,Final Registration Students 1-8,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-MAT101,277,0,0
+1792170124731,277,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,502,230,10,10,null,277,6689,0
+1792170132319,278,03_GET_Course_Detail,200,OK,Final Registration Students 1-4,text,true,,503,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-CSE305,278,0,0
+1792170127053,278,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,503,230,10,10,null,278,5266,0
+1792170133877,278,05_POST_Logout,200,OK,Final Registration Students 1-5,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,278,0,0
+1792170127450,278,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,340,242,10,10,null,278,6427,0
+1792170134106,281,03_GET_Course_Detail,200,OK,Final Registration Students 1-10,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-MAT101,281,0,0
+1792170128412,281,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,502,230,10,10,null,281,5694,0
+1792170134138,267,05_POST_Logout,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,267,0,0
+1792170127321,267,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,363,242,10,10,null,267,6817,0
+1792170134156,255,01a_GET_Home_Page,200,OK,Final Registration Students 1-5,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,254,0,0
+1792170134406,257,01a_GET_Home_Page,200,OK,Final Registration Students 1-6,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,257,0,0
+1792170134412,286, 01b_GET_Api_Info,200,OK,Final Registration Students 1-5,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,286,0,0
+1792170134155,541,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,12938,342,10,10,null,540,2,0
+1792170134664,279, 01b_GET_Api_Info,200,OK,Final Registration Students 1-6,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,279,0,0
+1792170134406,536,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,12938,342,10,10,null,536,2,0
+1792170134708,276,04_GET_My_Courses,200,OK,Final Registration Students 1-3,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,276,0,0
+1792170125162,276,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,332,224,10,10,null,276,9546,0
+1792170135554,271,05_POST_Logout,200,OK,Final Registration Students 1-7,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,271,0,0
+1792170130332,271,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,340,242,10,10,null,271,5222,0
+1792170135826,253,01a_GET_Home_Page,200,OK,Final Registration Students 1-7,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,252,0,0
+1792170135886,289,05_POST_Logout,200,OK,Final Registration Students 1-2,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,289,0,0
+1792170128628,289,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-2,,true,,340,242,10,10,null,289,7258,0
+1792170136079,260, 01b_GET_Api_Info,200,OK,Final Registration Students 1-7,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,260,0,0
+1792170135826,513,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,12938,342,10,10,null,512,0,0
+1792170136176,269,01a_GET_Home_Page,200,OK,Final Registration Students 1-2,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,269,0,0
+1792170136446,296, 01b_GET_Api_Info,200,OK,Final Registration Students 1-2,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,296,0,0
+1792170136176,565,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,12938,342,10,10,null,565,1,0
+1792170138065,269,04_GET_My_Courses,200,OK,Final Registration Students 1-9,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,269,0,0
+1792170131643,269,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,332,224,10,10,null,269,6423,0
+1792170140242,279,05_POST_Logout,200,OK,Final Registration Students 1-3,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,279,0,0
+1792170134984,279,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,340,242,10,10,null,279,5258,0
+1792170140455,288,03_GET_Course_Detail,200,OK,Final Registration Students 1-1,text,true,,500,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-STA201,288,0,0
+1792170131641,288,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,500,230,10,10,null,288,8814,0
+1792170140522,247,01a_GET_Home_Page,200,OK,Final Registration Students 1-3,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,247,0,0
+1792170140770,252, 01b_GET_Api_Info,200,OK,Final Registration Students 1-3,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,252,0,0
+1792170140522,499,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,12938,342,10,10,null,499,1,0
+1792170140885,249,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,249,0,0
+1792170131697,249,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-8,,false,,365,224,10,10,null,249,9189,0
+1792170140877,276,04_GET_My_Courses,200,OK,Final Registration Students 1-10,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,276,0,0
+1792170134387,276,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,332,224,10,10,null,276,6490,0
+1792170142371,293,04_GET_My_Courses,200,OK,Final Registration Students 1-4,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,293,0,0
+1792170132597,293,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,332,224,10,10,null,293,9775,0
+1792170142700,307,02a_POST_Login,200,OK,Final Registration Students 1-5,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,307,0,0
+1792170143009,261,02b_GET_Course_List,200,OK,Final Registration Students 1-5,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,261,0,0
+1792170134698,568,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,2875,471,10,10,null,568,8005,0
+1792170144035,317,02a_POST_Login,200,OK,Final Registration Students 1-6,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,317,0,0
+1792170144211,316,02a_POST_Login,200,OK,Final Registration Students 1-7,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,316,0,0
+1792170144354,281,02b_GET_Course_List,200,OK,Final Registration Students 1-6,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,281,0,0
+1792170134944,598,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,2874,471,10,10,null,598,9094,0
+1792170144529,276,02b_GET_Course_List,200,OK,Final Registration Students 1-7,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,276,0,0
+1792170136339,592,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,2876,471,10,10,null,592,7875,0
+1792170145727,301,02a_POST_Login,200,OK,Final Registration Students 1-2,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,301,0,0
+1792170146029,291,02b_GET_Course_List,200,OK,Final Registration Students 1-2,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,291,0,0
+1792170136742,592,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,2876,471,10,10,null,592,8988,0
+1792170146482,264,05_POST_Logout,200,OK,Final Registration Students 1-8,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,264,0,0
+1792170141135,264,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,340,242,10,10,null,264,5347,0
+1792170146747,272,01a_GET_Home_Page,200,OK,Final Registration Students 1-8,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,269,0,0
+1792170147020,268, 01b_GET_Api_Info,200,OK,Final Registration Students 1-8,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,268,0,0
+1792170146746,540,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,12938,342,10,10,null,537,2,0
+1792170147081,278,04_GET_My_Courses,200,OK,Final Registration Students 1-1,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,278,0,0
+1792170140743,278,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,332,224,10,10,null,278,6339,0
+1792170147556,274,05_POST_Logout,200,OK,Final Registration Students 1-9,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,274,0,0
+1792170138335,274,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,340,242,10,10,null,274,9221,0
+1792170147830,266,01a_GET_Home_Page,200,OK,Final Registration Students 1-9,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,265,0,0
+1792170148097,260, 01b_GET_Api_Info,200,OK,Final Registration Students 1-9,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,260,0,0
+1792170147830,526,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,12938,342,10,10,null,525,1,0
+1792170149118,261,05_POST_Logout,200,OK,Final Registration Students 1-4,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,261,0,0
+1792170142665,261,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,340,242,10,10,null,261,6454,0
+1792170149381,271,01a_GET_Home_Page,200,OK,Final Registration Students 1-4,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,270,0,0
+1792170149653,274, 01b_GET_Api_Info,200,OK,Final Registration Students 1-4,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,274,0,0
+1792170149380,545,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,12938,342,10,10,null,544,2,0
+1792170149846,277,05_POST_Logout,200,OK,Final Registration Students 1-10,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,277,0,0
+1792170141153,277,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,340,242,10,10,null,277,8697,0
+1792170150129,251,01a_GET_Home_Page,200,OK,Final Registration Students 1-10,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,250,0,0
+1792170150380,257, 01b_GET_Api_Info,200,OK,Final Registration Students 1-10,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,257,0,0
+1792170150128,508,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,12938,342,10,10,null,507,2,0
+1792170150582,287,02a_POST_Login,200,OK,Final Registration Students 1-3,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,287,0,0
+1792170150870,306,02b_GET_Course_List,200,OK,Final Registration Students 1-3,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,306,0,0
+1792170141022,593,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,2875,471,10,10,null,593,9562,0
+1792170150986,316,03_GET_Course_Detail,200,OK,Final Registration Students 1-6,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE201,315,0,0
+1792170144636,316,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,502,230,10,10,null,315,6350,0
+1792170153047,307,03_GET_Course_Detail,200,OK,Final Registration Students 1-5,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-BBA210,307,0,0
+1792170143271,307,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,512,230,10,10,null,307,9776,0
+1792170154050,292,02a_POST_Login,200,OK,Final Registration Students 1-8,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,292,0,0
+1792170154343,279,02b_GET_Course_List,200,OK,Final Registration Students 1-8,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,279,0,0
+1792170147289,571,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,2876,471,10,10,null,571,6763,0
+1792170154762,308,03_GET_Course_Detail,200,OK,Final Registration Students 1-7,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE101,308,0,0
+1792170144806,308,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,512,230,10,10,null,308,9957,0
+1792170156131,292,02a_POST_Login,200,OK,Final Registration Students 1-9,text,true,,441,241,10,10,https://uni-reg-cloud.vercel.app/api/login,292,0,0
+1792170156265,290,02a_POST_Login,200,OK,Final Registration Students 1-4,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,290,0,0
+1792170156219,414,03_GET_Course_Detail,200,OK,Final Registration Students 1-2,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-MAT101,414,0,128
+1792170146322,414,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-2,,true,,502,230,10,10,null,414,9897,128
+1792170156423,292,02b_GET_Course_List,200,OK,Final Registration Students 1-9,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,292,0,0
+1792170148357,584,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,2877,471,10,10,null,584,7775,0
+1792170156555,293,02b_GET_Course_List,200,OK,Final Registration Students 1-4,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,293,0,0
+1792170149927,583,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,2875,471,10,10,null,583,6338,0
+1792170156765,408,05_POST_Logout,200,OK,Final Registration Students 1-1,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,408,0,138
+1792170147360,408,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,340,242,10,10,null,408,9405,138
+1792170157174,256,01a_GET_Home_Page,200,OK,Final Registration Students 1-1,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,255,0,0
+1792170157208,287,02a_POST_Login,200,OK,Final Registration Students 1-10,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,287,0,0
+1792170157430,299, 01b_GET_Api_Info,200,OK,Final Registration Students 1-1,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,299,0,0
+1792170157174,555,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,12938,342,10,10,null,554,1,0
+1792170157496,280,02b_GET_Course_List,200,OK,Final Registration Students 1-10,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,280,0,0
+1792170150638,567,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,2874,471,10,10,null,567,6572,0
+1792170158377,288,03_GET_Course_Detail,200,OK,Final Registration Students 1-3,text,true,,515,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-BBA101,288,0,0
+1792170151177,288,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,515,230,10,10,null,288,7200,0
+1792170159683,282,04_GET_My_Courses,200,OK,Final Registration Students 1-5,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,282,0,0
+1792170153354,282,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,332,224,10,10,null,282,6328,0
+1792170160085,290,04_GET_My_Courses,200,OK,Final Registration Students 1-6,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,290,0,0
+1792170151302,290,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,332,224,10,10,null,290,8783,0
+1792170161633,271,04_GET_My_Courses,200,OK,Final Registration Students 1-7,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,271,0,0
+1792170155071,271,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,332,224,10,10,null,271,6561,0
+1792170162280,278,03_GET_Course_Detail,200,OK,Final Registration Students 1-8,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-MAT101,278,0,0
+1792170154623,278,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,502,230,10,10,null,278,7657,0
+1792170162158,416,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-MAT101,416,0,135
+1792170156848,416,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-4,,false,,365,230,10,10,null,416,5309,135
+1792170163095,308,03_GET_Course_Detail,200,OK,Final Registration Students 1-10,text,true,,500,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-STA201,308,0,0
+1792170157777,308,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,500,230,10,10,null,308,5317,0
+1792170163877,298,02a_POST_Login,200,OK,Final Registration Students 1-1,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,298,0,0
+1792170164176,315,02b_GET_Course_List,200,OK,Final Registration Students 1-1,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,315,0,0
+1792170157730,613,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,2875,471,10,10,null,613,6148,0
+1792170164682,361,04_GET_My_Courses,200,OK,Final Registration Students 1-3,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,361,0,101
+1792170158666,361,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,332,224,10,10,null,361,6017,101
+1792170165362,302,04_GET_My_Courses,200,OK,Final Registration Students 1-2,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,302,0,0
+1792170156644,302,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-2,,true,,332,224,10,10,null,302,8718,0
+1792170166044,317,05_POST_Logout,200,OK,Final Registration Students 1-6,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,317,0,0
+1792170160376,317,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,340,242,10,10,null,317,5670,0
+1792170166362,270,01a_GET_Home_Page,200,OK,Final Registration Students 1-6,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,265,0,0
+1792170166633,277, 01b_GET_Api_Info,200,OK,Final Registration Students 1-6,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,277,0,0
+1792170166362,547,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,12938,342,10,10,null,542,1,0
+1792170166626,291,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-BBA101,291,0,0
+1792170156716,291,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-9,,false,,365,230,10,10,null,291,9910,0
+1792170168683,293,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,293,0,0
+1792170162559,293,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-8,,false,,365,224,10,10,null,293,6126,0
+1792170168653,376,04_GET_My_Courses,200,OK,Final Registration Students 1-4,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,376,0,0
+1792170162574,376,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,332,224,10,10,null,376,6080,0
+1792170169884,371,05_POST_Logout,200,OK,Final Registration Students 1-5,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,371,0,113
+1792170159966,371,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,340,242,10,10,null,371,9920,113
+1792170170256,269,01a_GET_Home_Page,200,OK,Final Registration Students 1-5,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,267,0,0
+1792170170525,252, 01b_GET_Api_Info,200,OK,Final Registration Students 1-5,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,252,0,0
+1792170170256,521,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,12938,342,10,10,null,519,0,0
+1792170171144,387,05_POST_Logout,200,OK,Final Registration Students 1-7,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,387,0,108
+1792170161904,387,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,340,242,10,10,null,387,9242,108
+1792170171532,364,01a_GET_Home_Page,200,OK,Final Registration Students 1-7,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,362,0,0
+1792170171896,252, 01b_GET_Api_Info,200,OK,Final Registration Students 1-7,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,252,0,0
+1792170171532,616,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,12938,342,10,10,null,614,0,0
+1792170171849,303,03_GET_Course_Detail,200,OK,Final Registration Students 1-1,text,true,,508,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-ENG101,303,0,0
+1792170164492,303,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,508,230,10,10,null,303,7357,0
+1792170172728,278,05_POST_Logout,200,OK,Final Registration Students 1-3,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,278,0,0
+1792170165043,278,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,340,242,10,10,null,278,7685,0
+1792170173007,251,01a_GET_Home_Page,200,OK,Final Registration Students 1-3,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,249,0,0
+1792170173314,277,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,277,0,0
+1792170166917,277,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-9,,false,,365,224,10,10,null,277,6397,0
+1792170173314,279,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,279,0,0
+1792170163403,279,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-10,,false,,365,224,10,10,null,279,9913,0
+1792170173212,383,02a_POST_Login,200,OK,Final Registration Students 1-6,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,383,0,94
+1792170173259,345, 01b_GET_Api_Info,200,OK,Final Registration Students 1-3,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,345,0,0
+1792170173007,596,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,12938,342,10,10,null,594,1,0
+1792170173596,244,02b_GET_Course_List,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,244,0,0
+1792170166910,627,T02_Login,,"Number of samples in transaction : 2, number of failing samples : 1",Final Registration Students 1-6,,false,,804,471,10,10,null,627,6304,94
+1792170174116,284,05_POST_Logout,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,283,0,0
+1792170165664,284,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,363,242,10,10,null,283,8452,0
+1792170174401,249,01a_GET_Home_Page,200,OK,Final Registration Students 1-2,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,248,0,0
+1792170174651,264, 01b_GET_Api_Info,200,OK,Final Registration Students 1-2,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,264,0,0
+1792170174400,513,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,12938,342,10,10,null,512,3,0
+1792170175228,386,05_POST_Logout,401,Unauthorized,Final Registration Students 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,386,0,111
+1792170168977,386,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-8,,false,,363,242,10,10,null,386,6251,111
+1792170175616,273,01a_GET_Home_Page,200,OK,Final Registration Students 1-8,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,272,0,0
+1792170175890,259, 01b_GET_Api_Info,200,OK,Final Registration Students 1-8,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,259,0,0
+1792170175615,532,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,12938,342,10,10,null,531,2,0
+1792170177144,272,05_POST_Logout,401,Unauthorized,Final Registration Students 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,272,0,0
+1792170169029,272,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-4,,false,,363,242,10,10,null,272,8115,0
+1792170177416,286,01a_GET_Home_Page,200,OK,Final Registration Students 1-4,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,286,0,0
+1792170177703,307, 01b_GET_Api_Info,200,OK,Final Registration Students 1-4,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,307,0,0
+1792170177416,593,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,12938,342,10,10,null,593,1,0
+1792170178416,285,02a_POST_Login,200,OK,Final Registration Students 1-5,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,285,0,0
+1792170178704,313,02b_GET_Course_List,200,OK,Final Registration Students 1-5,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,313,0,0
+1792170170777,598,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,2874,471,10,10,null,598,7642,0
+1792170179648,338,02a_POST_Login,200,OK,Final Registration Students 1-7,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,338,0,0
+1792170179986,314,02b_GET_Course_List,200,OK,Final Registration Students 1-7,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,314,0,0
+1792170172148,652,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,2876,471,10,10,null,652,7506,0
+1792170180532,288,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,288,0,0
+1792170172152,288,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-1,,false,,365,224,10,10,null,288,8381,0
+1792170180833,333,02a_POST_Login,200,OK,Final Registration Students 1-3,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,333,0,0
+1792170181168,272,02b_GET_Course_List,200,OK,Final Registration Students 1-3,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,272,0,0
+1792170173604,605,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,2876,471,10,10,null,605,7232,0
+1792170181882,353,05_POST_Logout,401,Unauthorized,Final Registration Students 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,353,0,101
+1792170173591,353,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-9,,false,,363,242,10,10,null,353,8291,101
+1792170182236,256,01a_GET_Home_Page,200,OK,Final Registration Students 1-9,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,252,0,0
+1792170182492,258, 01b_GET_Api_Info,200,OK,Final Registration Students 1-9,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,258,0,0
+1792170182235,514,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,12938,342,10,10,null,510,1,0
+1792170182799,281,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,238,10,10,https://uni-reg-cloud.vercel.app/api/courses/COURSE_NOT_FOUND,281,0,0
+1792170173841,281,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,365,238,10,10,null,281,8959,0
+1792170183266,373,05_POST_Logout,401,Unauthorized,Final Registration Students 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,373,0,100
+1792170173594,373,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-10,,false,,363,242,10,10,null,373,9672,100
+1792170183640,253,01a_GET_Home_Page,200,OK,Final Registration Students 1-10,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,253,0,0
+1792170183894,259, 01b_GET_Api_Info,200,OK,Final Registration Students 1-10,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,259,0,0
+1792170183640,512,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,12938,342,10,10,null,512,1,0
+1792170184048,328,02a_POST_Login,200,OK,Final Registration Students 1-2,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,328,0,0
+1792170184233,322,02a_POST_Login,200,OK,Final Registration Students 1-4,text,true,,441,241,10,10,https://uni-reg-cloud.vercel.app/api/login,322,0,0
+1792170184377,331,02b_GET_Course_List,200,OK,Final Registration Students 1-2,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,331,0,0
+1792170174916,659,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,2875,471,10,10,null,659,9132,0
+1792170184556,299,02b_GET_Course_List,200,OK,Final Registration Students 1-4,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,299,0,0
+1792170178010,621,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,2877,471,10,10,null,621,6223,0
+1792170184549,347,02a_POST_Login,200,OK,Final Registration Students 1-8,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,347,0,0
+1792170184897,279,02b_GET_Course_List,200,OK,Final Registration Students 1-8,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,279,0,0
+1792170176149,626,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,2876,471,10,10,null,626,8401,0
+1792170185915,302,05_POST_Logout,200,OK,Final Registration Students 1-1,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,302,0,0
+1792170180821,302,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,340,242,10,10,null,302,5093,0
+1792170186217,275,01a_GET_Home_Page,200,OK,Final Registration Students 1-1,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,266,0,0
+1792170186492,270, 01b_GET_Api_Info,200,OK,Final Registration Students 1-1,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,270,0,0
+1792170186217,545,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,12938,342,10,10,null,536,0,0
+1792170186815,268,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-ENG101,268,0,0
+1792170179018,268,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,365,230,10,10,null,268,7796,0
+1792170187765,349,02a_POST_Login,200,OK,Final Registration Students 1-9,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,349,0,0
+1792170188115,289,02b_GET_Course_List,200,OK,Final Registration Students 1-9,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,289,0,0
+1792170182750,638,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,2875,471,10,10,null,638,5015,0
+1792170189447,264,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE201,264,0,0
+1792170180306,264,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-7,,false,,365,230,10,10,null,264,9142,0
+1792170190148,267,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-MAT101,267,0,0
+1792170181441,267,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,365,230,10,10,null,267,8707,0
+1792170190530,280,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-PHY101,280,0,0
+1792170184708,280,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,365,230,10,10,null,280,5824,0
+1792170190647,296,03_GET_Course_Detail,200,OK,Final Registration Students 1-8,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-ART110,296,0,0
+1792170185177,296,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,502,230,10,10,null,296,5472,0
+1792170190847,315,02a_POST_Login,200,OK,Final Registration Students 1-10,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,315,0,0
+1792170190931,280,04_GET_My_Courses,200,OK,Final Registration Students 1-6,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,280,0,0
+1792170183081,280,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,332,224,10,10,null,280,7850,0
+1792170191162,262,02b_GET_Course_List,200,OK,Final Registration Students 1-10,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,262,0,0
+1792170184153,577,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,2874,471,10,10,null,577,6696,0
+1792170191748,291,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-CSE101,291,0,0
+1792170184855,291,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-4,,false,,365,230,10,10,null,291,6895,0
+1792170192447,269,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,269,0,0
+1792170187083,269,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,365,224,10,10,null,269,5365,0
+1792170193581,298,02a_POST_Login,200,OK,Final Registration Students 1-1,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,298,0,0
+1792170193881,300,02b_GET_Course_List,200,OK,Final Registration Students 1-1,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,289,0,0
+1792170186762,598,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,2875,471,10,10,null,587,6823,0
+1792170196364,319,03_GET_Course_Detail,200,OK,Final Registration Students 1-9,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-BBA210,319,0,0
+1792170188404,319,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,512,230,10,10,null,319,7961,0
+1792170197278,273,03_GET_Course_Detail,200,OK,Final Registration Students 1-10,text,true,,503,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE305,273,0,0
+1792170191425,273,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,503,230,10,10,null,273,5853,0
+1792170197769,293,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,293,0,0
+1792170192040,293,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-4,,false,,365,224,10,10,null,293,5729,0
+1792170197919,255,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,255,0,0
+1792170190415,255,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,365,224,10,10,null,255,7505,0
+1792170197967,264,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,264,0,0
+1792170189712,264,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-7,,false,,365,224,10,10,null,264,8255,0
+1792170198218,259,05_POST_Logout,200,OK,Final Registration Students 1-6,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,259,0,0
+1792170191211,259,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,340,242,10,10,null,259,7018,0
+1792170198489,267,01a_GET_Home_Page,200,OK,Final Registration Students 1-6,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,265,0,0
+1792170198571,268,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,268,0,0
+1792170190811,268,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,365,224,10,10,null,268,7760,0
+1792170198756,256, 01b_GET_Api_Info,200,OK,Final Registration Students 1-6,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,256,0,0
+1792170198489,523,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,12938,342,10,10,null,521,1,0
+1792170200506,282,04_GET_My_Courses,200,OK,Final Registration Students 1-8,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,282,0,0
+1792170190944,282,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,332,224,10,10,null,282,9563,0
+1792170200772,271,03_GET_Course_Detail,200,OK,Final Registration Students 1-1,text,true,,500,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-STA201,271,0,0
+1792170194182,271,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,500,230,10,10,null,271,6591,0
+1792170200977,262,05_POST_Logout,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,262,0,0
+1792170192716,262,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,363,242,10,10,null,262,8261,0
+1792170201239,271,01a_GET_Home_Page,200,OK,Final Registration Students 1-5,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,263,0,0
+1792170201510,275, 01b_GET_Api_Info,200,OK,Final Registration Students 1-5,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,275,0,0
+1792170201239,546,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,12938,342,10,10,null,538,1,0
+1792170203239,257,05_POST_Logout,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,256,0,0
+1792170198175,257,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,363,242,10,10,null,256,5064,0
+1792170203510,287,01a_GET_Home_Page,200,OK,Final Registration Students 1-3,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,286,0,0
+1792170203798,250, 01b_GET_Api_Info,200,OK,Final Registration Students 1-3,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,250,0,0
+1792170203509,537,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,12938,342,10,10,null,536,3,0
+1792170206163,251,05_POST_Logout,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,251,0,0
+1792170198839,251,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,363,242,10,10,null,251,7324,0
+1792170206338,273,04_GET_My_Courses,200,OK,Final Registration Students 1-9,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,273,0,0
+1792170196683,273,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,332,224,10,10,null,273,9655,0
+1792170206414,255,01a_GET_Home_Page,200,OK,Final Registration Students 1-2,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,250,0,0
+1792170206366,331,05_POST_Logout,200,OK,Final Registration Students 1-7,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,331,0,0
+1792170198231,331,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,340,242,10,10,null,331,8135,0
+1792170206455,281,05_POST_Logout,200,OK,Final Registration Students 1-4,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,281,0,0
+1792170198062,281,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,340,242,10,10,null,281,8394,0
+1792170206737,266,01a_GET_Home_Page,200,OK,Final Registration Students 1-4,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,266,0,0
+1792170206698,324,01a_GET_Home_Page,200,OK,Final Registration Students 1-7,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,315,0,0
+1792170206670,352, 01b_GET_Api_Info,200,OK,Final Registration Students 1-2,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,352,0,0
+1792170206414,607,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,12938,342,10,10,null,602,1,0
+1792170207022,283, 01b_GET_Api_Info,200,OK,Final Registration Students 1-7,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,283,0,0
+1792170206697,607,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,12938,342,10,10,null,598,1,0
+1792170207013,293,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,293,0,0
+1792170197551,293,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-10,,false,,365,224,10,10,null,293,9462,0
+1792170207003,321, 01b_GET_Api_Info,200,OK,Final Registration Students 1-4,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,321,0,0
+1792170206737,587,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,12938,342,10,10,null,587,0,0
+1792170207562,275,02a_POST_Login,200,OK,Final Registration Students 1-6,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,275,0,0
+1792170207838,261,02b_GET_Course_List,200,OK,Final Registration Students 1-6,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,261,0,0
+1792170199013,536,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,2875,471,10,10,null,536,8552,0
+1792170208344,301,04_GET_My_Courses,200,OK,Final Registration Students 1-1,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,301,0,0
+1792170201044,301,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,332,224,10,10,null,301,7301,0
+1792170208942,263,05_POST_Logout,200,OK,Final Registration Students 1-8,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,263,0,0
+1792170200789,263,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,340,242,10,10,null,263,8153,0
+1792170209206,256,01a_GET_Home_Page,200,OK,Final Registration Students 1-8,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,255,0,0
+1792170209463,275, 01b_GET_Api_Info,200,OK,Final Registration Students 1-8,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,275,0,0
+1792170209206,531,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,12938,342,10,10,null,530,1,0
+1792170209574,335,02a_POST_Login,200,OK,Final Registration Students 1-5,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,335,0,0
+1792170209910,278,02b_GET_Course_List,200,OK,Final Registration Students 1-5,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,278,0,0
+1792170201786,613,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,2874,471,10,10,null,613,7791,0
+1792170212274,316,02a_POST_Login,200,OK,Final Registration Students 1-3,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,316,0,0
+1792170212591,307,02b_GET_Course_List,200,OK,Final Registration Students 1-3,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,307,0,0
+1792170204049,623,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,2876,471,10,10,null,623,8227,0
+1792170213990,268,05_POST_Logout,200,OK,Final Registration Students 1-10,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,268,0,0
+1792170207306,268,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,340,242,10,10,null,268,6684,0
+1792170214259,260,01a_GET_Home_Page,200,OK,Final Registration Students 1-10,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,260,0,0
+1792170214204,315,02a_POST_Login,200,OK,Final Registration Students 1-2,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,315,0,0
+1792170214520,266,02b_GET_Course_List,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,266,0,0
+1792170207022,581,T02_Login,,"Number of samples in transaction : 2, number of failing samples : 1",Final Registration Students 1-2,,false,,805,471,10,10,null,581,7184,0
+1792170214520,282, 01b_GET_Api_Info,200,OK,Final Registration Students 1-10,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,282,0,0
+1792170214259,542,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,12938,342,10,10,null,542,1,0
+1792170214615,273,05_POST_Logout,200,OK,Final Registration Students 1-9,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,273,0,0
+1792170206611,273,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,340,242,10,10,null,273,8004,0
+1792170214889,259,01a_GET_Home_Page,200,OK,Final Registration Students 1-9,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,259,0,0
+1792170215149,255, 01b_GET_Api_Info,200,OK,Final Registration Students 1-9,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,255,0,0
+1792170214889,514,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,12938,342,10,10,null,514,1,0
+1792170215382,279,05_POST_Logout,200,OK,Final Registration Students 1-1,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,279,0,0
+1792170208646,279,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,340,242,10,10,null,279,6736,0
+1792170215617,306,03_GET_Course_Detail,200,OK,Final Registration Students 1-6,text,true,,500,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-STA201,306,0,0
+1792170208101,306,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-6,,true,,500,230,10,10,null,306,7516,0
+1792170215662,287,01a_GET_Home_Page,200,OK,Final Registration Students 1-1,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,287,0,0
+1792170215950,264, 01b_GET_Api_Info,200,OK,Final Registration Students 1-1,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,264,0,0
+1792170215661,551,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,12938,342,10,10,null,551,3,0
+1792170216159,278,03_GET_Course_Detail,200,OK,Final Registration Students 1-5,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-BEN101,278,0,0
+1792170210190,278,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-5,,true,,512,230,10,10,null,278,5969,0
+1792170216294,287,02a_POST_Login,200,OK,Final Registration Students 1-7,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,287,0,0
+1792170216297,329,02a_POST_Login,200,OK,Final Registration Students 1-4,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,329,0,0
+1792170216583,261,02b_GET_Course_List,401,Unauthorized,Final Registration Students 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,261,0,0
+1792170207305,548,T02_Login,,"Number of samples in transaction : 2, number of failing samples : 1",Final Registration Students 1-7,,false,,804,471,10,10,null,548,8991,0
+1792170216627,299,02b_GET_Course_List,200,OK,Final Registration Students 1-4,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,299,0,0
+1792170207324,628,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,2876,471,10,10,null,628,8974,0
+1792170217557,326,02a_POST_Login,200,OK,Final Registration Students 1-8,text,true,,441,241,10,10,https://uni-reg-cloud.vercel.app/api/login,326,0,0
+1792170217884,277,02b_GET_Course_List,200,OK,Final Registration Students 1-8,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,277,0,0
+1792170209738,603,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,2877,471,10,10,null,603,7821,0
+1792170220158,301,02a_POST_Login,200,OK,Final Registration Students 1-10,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,301,0,0
+1792170220462,276,02b_GET_Course_List,200,OK,Final Registration Students 1-10,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,276,0,0
+1792170214803,577,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,2875,471,10,10,null,577,5359,0
+1792170221685,269,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,269,0,0
+1792170216437,269,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,365,224,10,10,null,269,5249,0
+1792170221923,450,02a_POST_Login,200,OK,Final Registration Students 1-1,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,450,0,137
+1792170222374,284,02b_GET_Course_List,200,OK,Final Registration Students 1-1,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,284,0,0
+1792170216215,734,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,2875,471,10,10,null,734,5709,137
+1792170222449,412,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,238,10,10,https://uni-reg-cloud.vercel.app/api/courses/COURSE_NOT_FOUND,412,0,122
+1792170214787,412,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,365,238,10,10,null,412,7663,122
+1792170222624,278,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE201,278,0,0
+1792170212899,278,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,365,230,10,10,null,278,9727,0
+1792170223703,274,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,274,0,0
+1792170215923,274,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,365,224,10,10,null,274,7780,0
+1792170223943,322,02a_POST_Login,200,OK,Final Registration Students 1-9,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,322,0,0
+1792170224266,269,02b_GET_Course_List,200,OK,Final Registration Students 1-9,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,269,0,0
+1792170215404,591,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,2874,471,10,10,null,591,8541,0
+1792170224599,274,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,238,10,10,https://uni-reg-cloud.vercel.app/api/courses/COURSE_NOT_FOUND,274,0,0
+1792170216844,274,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-7,,false,,365,238,10,10,null,274,7756,0
+1792170225148,409,03_GET_Course_Detail,200,OK,Final Registration Students 1-4,text,true,,500,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/B-STA201,409,0,114
+1792170216927,409,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,500,230,10,10,null,409,8222,114
+1792170225410,305,03_GET_Course_Detail,200,OK,Final Registration Students 1-8,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-ART110,305,0,0
+1792170218162,305,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,502,230,10,10,null,305,7248,0
+1792170227196,273,05_POST_Logout,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,273,0,0
+1792170221955,273,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,363,242,10,10,null,273,5241,0
+1792170227470,256,01a_GET_Home_Page,200,OK,Final Registration Students 1-5,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,255,0,0
+1792170227726,254, 01b_GET_Api_Info,200,OK,Final Registration Students 1-5,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,254,0,0
+1792170227470,510,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,12938,342,10,10,null,509,0,0
+1792170228279,293,03_GET_Course_Detail,200,OK,Final Registration Students 1-10,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/C-MAT101,293,0,0
+1792170220739,293,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,502,230,10,10,null,293,7540,0
+1792170228694,272,03_GET_Course_Detail,200,OK,Final Registration Students 1-1,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE201,271,0,0
+1792170222658,272,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,502,230,10,10,null,271,6035,0
+1792170229422,265,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,265,0,0
+1792170222862,265,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,365,224,10,10,null,265,6559,0
+1792170231409,291,04_GET_My_Courses,200,OK,Final Registration Students 1-4,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,291,0,0
+1792170225558,291,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,332,224,10,10,null,291,5851,0
+1792170231409,361,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,361,0,97
+1792170222904,361,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-3,,false,,365,224,10,10,null,361,8504,97
+1792170232579,270,05_POST_Logout,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,270,0,0
+1792170223977,270,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,363,242,10,10,null,270,8602,0
+1792170232850,290,01a_GET_Home_Page,200,OK,Final Registration Students 1-6,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,289,0,0
+1792170233000,278,03_GET_Course_Detail,200,OK,Final Registration Students 1-9,text,true,,502,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-ART110,278,0,0
+1792170224536,278,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-9,,true,,502,230,10,10,null,278,8463,0
+1792170232956,378,04_GET_My_Courses,200,OK,Final Registration Students 1-7,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,378,0,101
+1792170224874,378,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,332,224,10,10,null,378,8083,101
+1792170233045,292,04_GET_My_Courses,200,OK,Final Registration Students 1-8,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,292,0,0
+1792170225715,292,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,332,224,10,10,null,292,7329,0
+1792170233140,260, 01b_GET_Api_Info,200,OK,Final Registration Students 1-6,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,260,0,0
+1792170232850,550,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,12938,342,10,10,null,549,0,0
+1792170234466,261,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,261,0,0
+1792170228966,261,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-1,,false,,365,224,10,10,null,261,5502,0
+1792170234452,299,04_GET_My_Courses,200,OK,Final Registration Students 1-10,text,true,,332,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,299,0,0
+1792170228573,299,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,332,224,10,10,null,299,5880,0
+1792170235994,447,02a_POST_Login,200,OK,Final Registration Students 1-5,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,447,0,116
+1792170236442,285,02b_GET_Course_List,200,OK,Final Registration Students 1-5,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,285,0,0
+1792170227980,732,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,2875,471,10,10,null,732,8015,116
+1792170237830,272,05_POST_Logout,401,Unauthorized,Final Registration Students 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,272,0,0
+1792170229687,272,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-2,,false,,363,242,10,10,null,272,8144,0
+1792170238103,289,01a_GET_Home_Page,200,OK,Final Registration Students 1-2,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,288,0,0
+1792170238393,258, 01b_GET_Api_Info,200,OK,Final Registration Students 1-2,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,258,0,0
+1792170238102,547,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,12938,342,10,10,null,546,2,0
+1792170239318,281,05_POST_Logout,200,OK,Final Registration Students 1-4,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,280,0,0
+1792170231701,281,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,340,242,10,10,null,280,7617,0
+1792170239599,252,01a_GET_Home_Page,200,OK,Final Registration Students 1-4,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,249,0,0
+1792170239851,273, 01b_GET_Api_Info,200,OK,Final Registration Students 1-4,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,273,0,0
+1792170239599,525,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,12938,342,10,10,null,522,2,0
+1792170239614,536,05_POST_Logout,200,OK,Final Registration Students 1-3,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,535,0,0
+1792170231770,536,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,340,242,10,10,null,535,7844,0
+1792170240151,264,01a_GET_Home_Page,200,OK,Final Registration Students 1-3,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,264,0,0
+1792170240416,279, 01b_GET_Api_Info,200,OK,Final Registration Students 1-3,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,279,0,0
+1792170240151,543,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,12938,342,10,10,null,543,1,0
+1792170240914,276,05_POST_Logout,200,OK,Final Registration Students 1-7,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,276,0,0
+1792170233336,276,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,340,242,10,10,null,276,7578,0
+1792170240775,454,02a_POST_Login,200,OK,Final Registration Students 1-6,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,454,0,125
+1792170241149,252,05_POST_Logout,200,OK,Final Registration Students 1-10,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,252,0,0
+1792170234751,252,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,340,242,10,10,null,252,6398,0
+1792170241190,251,01a_GET_Home_Page,200,OK,Final Registration Students 1-7,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,251,0,0
+1792170241230,276,02b_GET_Course_List,200,OK,Final Registration Students 1-6,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,276,0,0
+1792170233400,730,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-6,,true,,2874,471,10,10,null,730,7377,125
+1792170241402,285,01a_GET_Home_Page,200,OK,Final Registration Students 1-10,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,285,0,0
+1792170241442,277, 01b_GET_Api_Info,200,OK,Final Registration Students 1-7,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,277,0,0
+1792170241190,528,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,12938,342,10,10,null,528,1,0
+1792170241506,433,05_POST_Logout,200,OK,Final Registration Students 1-8,text,true,,340,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,433,0,148
+1792170233337,433,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,340,242,10,10,null,433,8169,148
+1792170241687,259, 01b_GET_Api_Info,200,OK,Final Registration Students 1-10,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,259,0,0
+1792170241402,544,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,12938,342,10,10,null,544,0,0
+1792170241941,257,01a_GET_Home_Page,200,OK,Final Registration Students 1-8,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,257,0,0
+1792170242198,271, 01b_GET_Api_Info,200,OK,Final Registration Students 1-8,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,271,0,0
+1792170241941,528,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,12938,342,10,10,null,528,0,0
+1792170242489,364,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,364,0,94
+1792170233278,364,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-9,,false,,365,224,10,10,null,364,9211,94
+1792170244047,252,05_POST_Logout,401,Unauthorized,Final Registration Students 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,252,0,0
+1792170234728,252,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-1,,false,,363,242,10,10,null,252,9319,0
+1792170244300,294,01a_GET_Home_Page,200,OK,Final Registration Students 1-1,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,294,0,0
+1792170244595,253, 01b_GET_Api_Info,200,OK,Final Registration Students 1-1,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,253,0,0
+1792170244300,547,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,12938,342,10,10,null,547,1,0
+1792170244810,288,02a_POST_Login,200,OK,Final Registration Students 1-2,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,288,0,0
+1792170244908,268,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-MAT101,268,0,0
+1792170236727,268,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,365,230,10,10,null,268,8181,0
+1792170245100,285,02b_GET_Course_List,200,OK,Final Registration Students 1-2,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,285,0,0
+1792170238652,573,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-2,,true,,2876,471,10,10,null,573,6161,0
+1792170246404,318,02a_POST_Login,200,OK,Final Registration Students 1-3,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,318,0,0
+1792170246723,295,02b_GET_Course_List,200,OK,Final Registration Students 1-3,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,295,0,0
+1792170240695,613,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-3,,true,,2875,471,10,10,null,613,5711,0
+1792170248050,309,02a_POST_Login,200,OK,Final Registration Students 1-4,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,309,0,0
+1792170248177,271,03_GET_Course_Detail,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE305,271,0,0
+1792170241507,271,T03_Course_Detail,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,365,230,10,10,null,271,6671,0
+1792170248269,286,05_POST_Logout,401,Unauthorized,Final Registration Students 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,10,10,https://uni-reg-cloud.vercel.app/api/logout,286,0,0
+1792170242853,286,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-9,,false,,363,242,10,10,null,286,5417,0
+1792170248360,273,02b_GET_Course_List,200,OK,Final Registration Students 1-4,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,273,0,0
+1792170240126,582,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-4,,true,,2876,471,10,10,null,582,7928,0
+1792170248556,268,01a_GET_Home_Page,200,OK,Final Registration Students 1-9,text,true,,12335,167,10,10,https://uni-reg-cloud.vercel.app/,268,0,0
+1792170248824,248, 01b_GET_Api_Info,200,OK,Final Registration Students 1-9,text,true,,603,175,10,10,https://uni-reg-cloud.vercel.app/api/info,248,0,0
+1792170248555,516,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,12938,342,10,10,null,516,1,0
+1792170250624,379,02a_POST_Login,200,OK,Final Registration Students 1-10,text,true,,441,241,10,10,https://uni-reg-cloud.vercel.app/api/login,379,0,100
+1792170251004,300,02b_GET_Course_List,200,OK,Final Registration Students 1-10,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,300,0,0
+1792170241947,679,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-10,,true,,2877,471,10,10,null,679,8679,100
+1792170251311,311,02a_POST_Login,200,OK,Final Registration Students 1-7,text,true,,440,241,10,10,https://uni-reg-cloud.vercel.app/api/login,311,0,0
+1792170251623,286,02b_GET_Course_List,200,OK,Final Registration Students 1-7,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,286,0,0
+1792170241719,597,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-7,,true,,2876,471,10,10,null,597,9594,0
+1792170252454,274,02a_POST_Login,200,OK,Final Registration Students 1-8,text,true,,439,241,10,10,https://uni-reg-cloud.vercel.app/api/login,274,0,0
+1792170252729,296,02b_GET_Course_List,200,OK,Final Registration Students 1-8,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,296,0,0
+1792170242469,570,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-8,,true,,2875,471,10,10,null,570,9987,0
+1792170252782,255,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,10,10,https://uni-reg-cloud.vercel.app/api/my-courses,255,0,0
+1792170245176,255,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,365,224,10,10,null,255,7606,0
+1792170253918,292,02a_POST_Login,200,OK,Final Registration Students 1-1,text,true,,438,241,10,10,https://uni-reg-cloud.vercel.app/api/login,292,0,0
+1792170254210,272,02b_GET_Course_List,200,OK,Final Registration Students 1-1,text,true,,2436,230,10,10,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,272,0,0
+1792170244848,564,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-1,,true,,2874,471,10,10,null,564,9070,0
+1792170254544,261,03_GET_Course_Detail,200,OK,Final Registration Students 1-2,text,true,,512,230,10,10,https://uni-reg-cloud.vercel.app/api/courses/A-CSE101,261,0,0
+1792170245385,261,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-2,,true,,512,230,10,10,null,261,9159,0
+1792170254805,0,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1792170254965,272,03_GET_Course_Detail,200,OK,Final Registration Students 1-3,text,true,,500,230,9,9,https://uni-reg-cloud.vercel.app/api/courses/B-STA201,272,0,0
+1792170247019,272,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,500,230,9,9,null,272,7946,0
+1792170256334,263,04_GET_My_Courses,401,Unauthorized,Final Registration Students 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",365,224,9,9,https://uni-reg-cloud.vercel.app/api/my-courses,263,0,0
+1792170248448,263,T04_My_Registration,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-6,,false,,365,224,9,9,null,263,7886,0
+1792170256597,0,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1792170256878,287,03_GET_Course_Detail,200,OK,Final Registration Students 1-4,text,true,,500,230,8,8,https://uni-reg-cloud.vercel.app/api/courses/B-STA201,287,0,0
+1792170248635,287,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-4,,true,,500,230,8,8,null,287,8243,0
+1792170257165,0,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1792170258601,291,02a_POST_Login,200,OK,Final Registration Students 1-9,text,true,,439,241,7,7,https://uni-reg-cloud.vercel.app/api/login,291,0,0
+1792170258796,295,03_GET_Course_Detail,200,OK,Final Registration Students 1-8,text,true,,503,230,7,7,https://uni-reg-cloud.vercel.app/api/courses/C-CSE305,295,0,0
+1792170253026,295,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-8,,true,,503,230,7,7,null,295,5769,0
+1792170259091,0,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1792170258893,308,02b_GET_Course_List,200,OK,Final Registration Students 1-9,text,true,,2436,230,6,6,https://uni-reg-cloud.vercel.app/api/courses?q=&dept=,308,0,0
+1792170249072,599,T02_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-9,,true,,2875,471,6,6,null,599,9530,0
+1792170259202,0,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1792170259696,301,03_GET_Course_Detail,200,OK,Final Registration Students 1-7,text,true,,502,230,5,5,https://uni-reg-cloud.vercel.app/api/courses/B-MAT101,301,0,0
+1792170251910,301,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-7,,true,,502,230,5,5,null,301,7786,0
+1792170259998,0,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1792170260495,278,03_GET_Course_Detail,200,OK,Final Registration Students 1-1,text,true,,502,230,4,4,https://uni-reg-cloud.vercel.app/api/courses/A-ART110,278,0,0
+1792170254482,278,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-1,,true,,502,230,4,4,null,278,6013,0
+1792170260774,0,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1792170260795,266,05_POST_Logout,401,Unauthorized,Final Registration Students 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",363,242,3,3,https://uni-reg-cloud.vercel.app/api/logout,266,0,0
+1792170253037,266,T05_Logout,,"Number of samples in transaction : 1, number of failing samples : 1",Final Registration Students 1-5,,false,,363,242,3,3,null,266,7758,0
+1792170261044,259,03_GET_Course_Detail,200,OK,Final Registration Students 1-10,text,true,,515,230,3,3,https://uni-reg-cloud.vercel.app/api/courses/C-BBA101,259,0,0
+1792170251304,259,T03_Course_Detail,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-10,,true,,515,230,3,3,null,259,9739,0
+1792170261303,0,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,1,0
+1792170261063,248,01a_GET_Home_Page,200,OK,Final Registration Students 1-5,text,true,,12335,167,2,2,https://uni-reg-cloud.vercel.app/,247,0,0
+1792170261311,298, 01b_GET_Api_Info,200,OK,Final Registration Students 1-5,text,true,,603,175,2,2,https://uni-reg-cloud.vercel.app/api/info,298,0,0
+1792170261062,546,T01_Open_Home,200,"Number of samples in transaction : 2, number of failing samples : 0",Final Registration Students 1-5,,true,,12938,342,2,2,null,545,1,0
+1792170261528,301,04_GET_My_Courses,200,OK,Final Registration Students 1-3,text,true,,332,224,1,1,https://uni-reg-cloud.vercel.app/api/my-courses,301,0,0
+1792170255237,301,T04_My_Registration,200,"Number of samples in transaction : 1, number of failing samples : 0",Final Registration Students 1-3,,true,,332,224,1,1,null,301,6291,0
+1792170261830,0,T05_Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0

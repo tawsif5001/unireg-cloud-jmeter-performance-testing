@@ -1,8 +1,8 @@
 # 🔍 Root Cause Analysis: Session Errors Under Load
 
 [![Back to README](https://img.shields.io/badge/←%20Back-README-blue)](../README.md)
-[![Status](https://img.shields.io/badge/Script-Verified%20Correct-success)](#-4-conclusion)
-[![Cause](https://img.shields.io/badge/Cause-Server--side%20Token%20Invalidation-critical)](#-4-conclusion)
+[![Status](https://img.shields.io/badge/Script-Verified%20Correct-success)](#4️⃣-conclusion)
+[![Cause](https://img.shields.io/badge/Cause-Server--side%20Token%20Invalidation-critical)](#4️⃣-conclusion)
 
 > Under a 10-user load, 14–19% of requests failed with **401 Unauthorized**, while response times stayed around 300 ms. This document shows how the cause was narrowed down step by step, with evidence at each stage.
 
